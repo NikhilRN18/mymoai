@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287312614993",
+    "project_id": "mymoai-19b3c",
+    "storage_bucket": "mymoai-19b3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287312614993:android:0f1f95f3aab915474c0a70",
+        "android_client_info": {
+          "package_name": "com.example.mymoai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbXR1VWkPGgWECWswsM_ko0Qiv3oNvor4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
