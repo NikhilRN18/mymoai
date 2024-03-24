@@ -48,8 +48,7 @@ def recommend_clusters(new_user_interests, clusters_directory):
             recommendations.append(f"No moai found for interest '{interest}'.")
     
     return recommendations
-# Path to the directory where the clusters are saved
-clusters_directory = 'interests'  # Update this to your directory path
+clusters_directory = 'interests'  
 
 # Extract the interests of the new user
 new_user_interests = user_data['interests']
