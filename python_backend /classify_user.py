@@ -162,7 +162,6 @@ feature_names = numerical_features + [cat for feature in categorical_features fo
 recommended_moai = assign_to_moai(user_data, kmeans)
 print(f"Recommended Moai Group: {recommended_moai}")
 
-# Example usage
-cluster_id = recommended_moai  # Assuming recommended_moai is obtained from assign_to_moai
+cluster_id = recommended_moai
 cluster_description = describe_cluster(cluster_id, kmeans)
 print(f"Defining parameters of Moai Group {cluster_id}: {cluster_description}")
