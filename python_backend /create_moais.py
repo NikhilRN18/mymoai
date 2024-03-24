@@ -52,14 +52,10 @@ def calculate_age(year, month, day):
     today = datetime.today()
     return today.year - year - ((today.month, today.day) < (month, day))
 
-# Load your dataset
-# Make sure to adjust the path to where your dataset is located
 df = pd.read_csv("people.csv")
 
-# Assuming your dataset includes columns for 'year', 'month', 'day' for the birthdate
 df['age'] = df.apply(lambda x: calculate_age(x['year'], x['month'], x['day']), axis=1)
 
-# Define your preprocessing steps
 preprocessor = ColumnTransformer(transformers=[
     ('num', Pipeline(steps=[
         ('scaler', StandardScaler())
