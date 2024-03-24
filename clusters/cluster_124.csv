@@ -1,0 +1,10 @@
+firstName,lastName,month,day,year,email,phoneNumber,city,state,country,occupation,education,salary,dependents,creditScore,age,cluster
+Haley,Duarte,11,2,1987,user170@example.com,9380516130,Chicago,IL,USA,Project Manager,PhD,118999,0,792,36,124
+Marcus,Harris,1,13,1987,user436@example.com,3335385347,Chicago,IL,USA,Engineer,Bachelor,80000,1,615,37,124
+Troy,Christensen,7,18,1992,user437@example.com,4178670976,Chicago,IL,USA,Data Scientist,Bachelor,95000,1,719,31,124
+Laura,Smith,3,6,1999,user585@example.com,2872104850,Chicago,IL,USA,Software Engineer,Bachelor,90000,2,742,25,124
+Robert,Stewart,10,16,1985,user651@example.com,2968437185,Chicago,IL,USA,Project Manager,Bachelor,85000,0,662,38,124
+Jessica,Lopez,1,24,1992,user718@example.com,6170399723,Chicago,IL,USA,Project Manager,Bachelor,85000,1,611,32,124
+Jerry,Howell,10,13,1991,user729@example.com,6424934525,Chicago,IL,USA,Project Manager,Bachelor,85000,1,661,32,124
+Jerry,Rose,1,23,1997,user762@example.com,6199024242,Chicago,IL,USA,Engineer,Bachelor,80000,1,761,27,124
+Nathan,White,7,11,1977,user876@example.com,4400038543,Chicago,IL,USA,Project Manager,Bachelor,85000,1,648,46,124

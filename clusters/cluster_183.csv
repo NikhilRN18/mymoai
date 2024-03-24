@@ -1,0 +1,4 @@
+firstName,lastName,month,day,year,email,phoneNumber,city,state,country,occupation,education,salary,dependents,creditScore,age,cluster
+Timothy,Whitaker,3,9,2000,user58@example.com,8570029256,Boston,MA,USA,Nurse,Master,84000,0,382,24,183
+Daniel,Perry,2,25,2000,user176@example.com,9949031355,Boston,MA,USA,Consultant,Master,90000,2,318,24,183
+Samuel,Hines,8,25,1991,user831@example.com,7754476466,Boston,MA,USA,Consultant,Bachelor,75000,3,325,32,183
