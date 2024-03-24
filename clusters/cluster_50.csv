@@ -1,0 +1,5 @@
+firstName,lastName,month,day,year,email,phoneNumber,city,state,country,occupation,education,salary,dependents,creditScore,age,cluster
+Paula,Rodriguez,6,21,1993,user199@example.com,3962614475,Miami,FL,USA,Artist,Master,48000,5,604,30,50
+Christina,Fowler,5,5,1982,user412@example.com,6076352607,Miami,FL,USA,Artist,Master,48000,4,607,41,50
+Linda,Moore,10,9,1983,user534@example.com,1226382642,Miami,FL,USA,Artist,Master,48000,2,460,40,50
+Richard,Weber,12,1,1972,user916@example.com,5951238006,Miami,FL,USA,Artist,Master,48000,5,828,51,50
