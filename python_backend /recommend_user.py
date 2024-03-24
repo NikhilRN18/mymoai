@@ -77,7 +77,7 @@ def find_closest_cluster(new_user_data, cluster_averages):
     return closest_cluster_index
 
 # Example usage
-cluster_dir = "clusters"  # Your clusters directory
+cluster_dir = "clusters"  
 cluster_averages = calculate_cluster_averages(cluster_dir)
 
 user_data = {
