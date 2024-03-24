@@ -10,7 +10,6 @@ def get_moais(user_data):
 
 def find_mutual_connections(df, user_moais):
     """Find other people in the dataset who share at least one Moai with the user."""
-    # Convert Moais list to string for comparison, if your dataset stores them as strings
     mutuals = df[df['Moais'].apply(lambda moais: any(moai in (moais.split(', ') if isinstance(moais, str) else []) for moai in user_moais))]
     return mutuals
 
@@ -22,7 +21,7 @@ def recommend_new_moais(df, user_data, mutual_connections):
     return recommended_moais
 
 # Load the dataset
-filepath = 'alldata.csv'  # Update with the path to your CSV
+filepath = 'alldata.csv'  
 df = load_dataset(filepath)
 
 user_data = {
