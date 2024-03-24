@@ -1,0 +1,1001 @@
+firstName,lastName,month,day,year,email,phoneNumber,city,state,country,occupation,education,salary,dependents,creditScore,Interest,Moais
+Julian,Parker,3,2,1991,user0@example.com,1616329139,Los Angeles,CA,USA,Software Engineer,Bachelor,90000,4,773,Car,"436, 271, 107, 72, 701, 21"
+John,Garcia,11,1,1975,user1@example.com,9389592690,Los Angeles,CA,USA,Consultant,PhD,105000,3,832,Parties,"122, 467, 215, 331, 459, 88"
+Joshua,Perez,11,16,1990,user2@example.com,3118571426,San Francisco,CA,USA,Project Manager,Master,102000,2,466,Travel,"100, 664, 131, 662"
+Janet,Hernandez,1,21,1986,user3@example.com,4444070442,Chicago,IL,USA,Accountant,Bachelor,60000,4,820,Parties,"770, 344, 492, 414"
+Andrew,Snyder,4,9,1992,user4@example.com,9308923860,Miami,FL,USA,Nurse,Master,84000,2,611,Parties,"386, 192, 277, 161, 460"
+Seth,Lopez,3,27,1971,user5@example.com,8841406882,San Francisco,CA,USA,Accountant,PhD,84000,4,518,Gambling,22
+David,Foster,10,24,1981,user6@example.com,2375201618,Boston,MA,USA,Data Scientist,Master,114000,5,482,Travel,"748, 561, 475, 59"
+Daniel,Rivera,3,9,1995,user7@example.com,2080578149,Los Angeles,CA,USA,Software Engineer,Bachelor,90000,1,319,Travel,"682, 476, 700, 783, 190, 687"
+Peter,Silva,5,17,1982,user8@example.com,9780886341,Seattle,WA,USA,Artist,PhD,56000,2,468,Travel,"563, 567, 244, 505, 131"
+Julie,Larson,1,9,1981,user9@example.com,3285960525,Los Angeles,CA,USA,Nurse,PhD,98000,5,686,Parties,"647, 21, 167, 274"
+Christy,Brooks,3,11,1986,user10@example.com,4731415167,Miami,FL,USA,Artist,PhD,56000,1,692,Car,"601, 316, 14"
+Thomas,Guerrero,7,19,1973,user11@example.com,7365429254,Chicago,IL,USA,Artist,PhD,56000,1,382,Travel,777
+Paul,Richards,12,28,1973,user12@example.com,6973991754,Los Angeles,CA,USA,Software Engineer,Master,108000,1,670,Rentals,565
+Kristi,Valenzuela,11,3,1987,user13@example.com,4248573323,Houston,TX,USA,Accountant,Bachelor,60000,3,752,Parties,340
+Steven,Wilson,7,24,1976,user14@example.com,7853723220,Chicago,IL,USA,Artist,High School,32000,5,557,Gambling,"367, 455, 428"
+Annette,Garcia,7,29,1984,user15@example.com,9048373053,Denver,CO,USA,Software Engineer,PhD,125999,1,460,Car,"776, 35, 206, 81"
+Peter,Jones,12,2,1994,user16@example.com,7620737768,Phoenix,AZ,USA,Project Manager,Bachelor,85000,5,447,Rentals,"562, 388, 2"
+Jeffrey,Dunlap,11,20,1997,user17@example.com,7427513231,Boston,MA,USA,Software Engineer,Master,108000,0,685,Rentals,"390, 566, 106, 772, 477"
+Rebecca,Gordon,9,26,1972,user18@example.com,2439357150,Chicago,IL,USA,Accountant,PhD,84000,1,453,Gambling,"402, 730, 556, 162, 202, 270"
+Kenneth,Schultz,2,11,1975,user19@example.com,1915507623,Miami,FL,USA,Accountant,PhD,84000,4,361,Car,"271, 456, 462, 727, 252, 702"
+Lori,Powell,8,17,1973,user20@example.com,9014196040,Seattle,WA,USA,Accountant,High School,48000,1,336,Parties,"720, 749, 338, 53"
+Rachel,Johnson,6,30,1997,user21@example.com,2464237579,San Francisco,CA,USA,Artist,PhD,56000,1,841,Pets,217
+Kelly,Miranda,1,20,1983,user22@example.com,7807367142,Boston,MA,USA,Software Engineer,High School,72000,5,383,Car,"188, 380, 493"
+Beth,Macdonald,11,17,1991,user23@example.com,2608830033,Los Angeles,CA,USA,Project Manager,High School,68000,5,402,Gambling,
+Elizabeth,English,11,15,1988,user24@example.com,2881942069,Houston,TX,USA,Project Manager,Master,102000,2,381,Rentals,"15, 65, 521, 344"
+Christie,Jordan,11,16,1977,user25@example.com,8505219536,Los Angeles,CA,USA,Engineer,High School,64000,4,760,Parties,
+Bailey,Flores,1,21,1985,user26@example.com,4071998693,Los Angeles,CA,USA,Nurse,High School,56000,5,385,Car,"648, 472, 63"
+Lisa,Jones,12,18,1993,user27@example.com,7702849882,Boston,MA,USA,Consultant,High School,60000,0,328,Pets,"499, 593"
+Rebekah,Solomon,1,20,1975,user28@example.com,4460730888,Seattle,WA,USA,Nurse,Bachelor,70000,5,469,Pets,"419, 289"
+Debra,Patterson,2,3,1974,user29@example.com,9636232438,New York,NY,USA,Software Engineer,Master,108000,3,583,Travel,"773, 490"
+Michael,King,9,13,1988,user30@example.com,8899250848,New York,NY,USA,Artist,High School,32000,2,672,Travel,"41, 28, 135, 201, 780, 33"
+Jose,Nguyen,7,30,1992,user31@example.com,3220949399,Seattle,WA,USA,Nurse,Master,84000,0,675,Gambling,"407, 574, 728, 99, 684, 726"
+Heather,Nguyen,12,20,1993,user32@example.com,7671640651,Denver,CO,USA,Accountant,Master,72000,2,797,Car,"547, 739"
+Kelly,Pope,3,21,1984,user33@example.com,8052165263,Houston,TX,USA,Accountant,High School,48000,2,821,Car,"462, 643, 769, 5"
+Adam,Jackson,7,17,1986,user34@example.com,1004400862,Houston,TX,USA,Consultant,High School,60000,3,715,Rentals,503
+John,Ross,6,21,1970,user35@example.com,4210545356,Houston,TX,USA,Doctor,Master,180000,2,532,Rentals,"398, 795, 393, 207, 15, 554"
+Jane,Bishop,6,17,1973,user36@example.com,6520265511,Houston,TX,USA,Engineer,PhD,112000,4,623,Rentals,"461, 691, 575"
+Doris,Mcgrath,1,25,1977,user37@example.com,6734879538,Houston,TX,USA,Engineer,High School,64000,3,421,Travel,"241, 564, 96, 734, 485, 407"
+Elizabeth,Lane,8,31,2000,user38@example.com,6677136972,Chicago,IL,USA,Artist,Master,48000,1,424,Car,"749, 655, 171, 541, 36, 525"
+Robin,Roberts,12,14,1988,user39@example.com,5066768613,Chicago,IL,USA,Project Manager,Master,102000,4,574,Car,"699, 243, 86, 796, 578, 682"
+Timothy,Evans,11,27,1978,user40@example.com,1491476031,Miami,FL,USA,Teacher,High School,40000,2,703,Pets,"574, 646, 796, 28"
+Destiny,Jenkins,5,12,1989,user41@example.com,4957966499,New York,NY,USA,Project Manager,Master,102000,2,724,Travel,"556, 340, 798"
+Joseph,Fisher,6,26,1980,user42@example.com,5107065713,Houston,TX,USA,Project Manager,Bachelor,85000,5,624,Parties,"331, 640, 506, 348, 473"
+Krista,Rodriguez,6,25,1983,user43@example.com,4078887109,Miami,FL,USA,Artist,High School,32000,2,743,Travel,"190, 225, 385, 377, 283, 633"
+Vincent,Cooper,9,4,1977,user44@example.com,9212905864,Houston,TX,USA,Engineer,Master,96000,5,310,Parties,"745, 259, 359"
+Alexander,Nichols,6,30,1979,user45@example.com,5058751651,Denver,CO,USA,Artist,Bachelor,40000,5,470,Pets,"456, 411, 649, 318, 677"
+Renee,Brewer,10,1,1990,user46@example.com,2998184514,Seattle,WA,USA,Engineer,Bachelor,80000,3,517,Gambling,
+Jennifer,Wallace,6,6,1996,user47@example.com,9437298715,San Francisco,CA,USA,Nurse,Master,84000,5,664,Car,"234, 684"
+Mark,Clark,8,5,1979,user48@example.com,4838514747,Houston,TX,USA,Software Engineer,PhD,125999,2,414,Pets,"374, 672, 608, 472, 233, 692"
+Crystal,Jones,10,28,1985,user49@example.com,3098151563,Los Angeles,CA,USA,Consultant,Master,90000,4,598,Car,
+Danielle,Ramirez,3,8,1972,user50@example.com,4491237534,New York,NY,USA,Teacher,PhD,70000,5,639,Rentals,"497, 442, 564, 268, 510"
+Antonio,Gardner,12,28,1995,user51@example.com,4865593366,Chicago,IL,USA,Teacher,PhD,70000,1,773,Gambling,"386, 387, 113, 613, 625, 81"
+Matthew,Contreras,12,31,1972,user52@example.com,6551368635,Phoenix,AZ,USA,Doctor,PhD,210000,3,677,Gambling,"113, 2"
+Kurt,Ruiz,10,31,1991,user53@example.com,2070830932,Boston,MA,USA,Doctor,High School,120000,3,592,Pets,220
+Hannah,Hill,7,12,1985,user54@example.com,9851184200,Chicago,IL,USA,Data Scientist,Bachelor,95000,3,609,Gambling,"736, 225, 385, 403, 638"
+Brittany,Day,11,7,1978,user55@example.com,2997752287,Denver,CO,USA,Data Scientist,Master,114000,0,845,Parties,53
+Michael,Carter,9,24,1999,user56@example.com,1383468088,Phoenix,AZ,USA,Data Scientist,High School,76000,2,599,Gambling,"730, 672, 710"
+Mary,Nelson,10,19,1999,user57@example.com,9796425659,Seattle,WA,USA,Data Scientist,Bachelor,95000,1,539,Car,"439, 203, 184, 123, 401, 767"
+Timothy,Whitaker,3,9,2000,user58@example.com,8570029256,Boston,MA,USA,Nurse,Master,84000,0,382,Car,"280, 610, 198, 511, 752"
+Crystal,Gordon,6,9,1999,user59@example.com,1505079945,New York,NY,USA,Accountant,High School,48000,2,639,Car,
+Derek,Vang,1,9,1989,user60@example.com,7035904138,San Francisco,CA,USA,Software Engineer,High School,72000,3,447,Car,
+Brittany,Church,4,26,1986,user61@example.com,6978978079,San Francisco,CA,USA,Data Scientist,High School,76000,0,400,Parties,"187, 326, 464"
+Melissa,Noble,4,1,1988,user62@example.com,4579718384,Houston,TX,USA,Data Scientist,Bachelor,95000,2,589,Travel,"771, 660, 764, 403"
+Adam,Phillips,11,25,1988,user63@example.com,8808377314,Denver,CO,USA,Project Manager,Master,102000,0,756,Rentals,511
+Jennifer,Campbell,1,21,1993,user64@example.com,4874037988,Miami,FL,USA,Engineer,Master,96000,3,737,Pets,"148, 711"
+John,Jones,9,29,1997,user65@example.com,6166932939,Boston,MA,USA,Accountant,Master,72000,2,545,Car,"489, 640, 551"
+Steven,Sanchez,8,14,1979,user66@example.com,5830214773,New York,NY,USA,Data Scientist,Bachelor,95000,5,690,Gambling,641
+Karen,Alvarado,10,14,1993,user67@example.com,4322388112,Chicago,IL,USA,Teacher,High School,40000,3,318,Car,"473, 151"
+Lisa,Kirby,8,29,1990,user68@example.com,3985878632,Denver,CO,USA,Teacher,Bachelor,50000,5,416,Gambling,"298, 611, 263, 764, 144, 346"
+Elizabeth,Thomas,9,20,1986,user69@example.com,5671606108,Houston,TX,USA,Software Engineer,High School,72000,5,584,Rentals,
+Tiffany,Berry,10,10,1972,user70@example.com,6449976398,San Francisco,CA,USA,Consultant,Master,90000,0,408,Rentals,"572, 2, 304"
+Manuel,Wilson,9,25,1989,user71@example.com,2561536101,Boston,MA,USA,Consultant,High School,60000,3,751,Rentals,"652, 453, 37, 160, 9"
+Jason,Bell,1,20,1985,user72@example.com,1265262355,Chicago,IL,USA,Teacher,High School,40000,0,406,Gambling,
+Amy,Cameron,9,29,1973,user73@example.com,9342773970,Denver,CO,USA,Software Engineer,PhD,125999,2,753,Car,"659, 208"
+Denise,Cole,12,1,1981,user74@example.com,2817592168,Phoenix,AZ,USA,Teacher,Bachelor,50000,0,711,Rentals,"404, 152"
+Eric,Jones,12,20,1995,user75@example.com,3874295044,Seattle,WA,USA,Doctor,Bachelor,150000,0,313,Parties,"120, 673, 628, 587, 625"
+Rebecca,Taylor,11,14,1993,user76@example.com,1595446080,New York,NY,USA,Project Manager,Bachelor,85000,2,766,Gambling,"422, 104, 254"
+Samantha,Dean,9,15,1989,user77@example.com,9649849025,New York,NY,USA,Software Engineer,Bachelor,90000,0,745,Gambling,"112, 510"
+Ryan,Williams,6,5,1977,user78@example.com,6399047168,Miami,FL,USA,Consultant,High School,60000,2,732,Car,
+Jeffrey,Houston,8,2,1974,user79@example.com,7791889709,Phoenix,AZ,USA,Software Engineer,Bachelor,90000,2,609,Gambling,"153, 338"
+Scott,Hall,1,26,1982,user80@example.com,1361775418,New York,NY,USA,Consultant,PhD,105000,0,402,Gambling,163
+Douglas,Maynard,9,20,1976,user81@example.com,6767969569,Boston,MA,USA,Doctor,Master,180000,3,526,Rentals,"681, 161, 580, 398"
+Ryan,Smith,2,20,1995,user82@example.com,1098532412,Chicago,IL,USA,Data Scientist,PhD,133000,5,478,Car,"504, 392, 135, 195"
+Christopher,Powers,8,2,1976,user83@example.com,1389425580,New York,NY,USA,Consultant,High School,60000,5,522,Rentals,
+Patricia,Martin,5,21,1999,user84@example.com,7801588615,San Francisco,CA,USA,Consultant,High School,60000,4,764,Rentals,
+Christine,Jones,6,27,1984,user85@example.com,1654548330,Chicago,IL,USA,Consultant,Master,90000,4,307,Car,"470, 375, 22"
+Jermaine,Ryan,12,23,1979,user86@example.com,9584728947,Miami,FL,USA,Teacher,Bachelor,50000,3,788,Pets,"670, 38, 230, 365, 563"
+Bailey,Walters,6,22,1995,user87@example.com,9701967544,Miami,FL,USA,Data Scientist,PhD,133000,2,490,Rentals,"776, 283, 27, 226, 277"
+Jeremy,Martinez,9,27,1999,user88@example.com,3011950385,Seattle,WA,USA,Project Manager,High School,68000,5,574,Parties,"609, 284, 481, 453, 659"
+Stacy,Navarro,10,22,1988,user89@example.com,6286635167,Houston,TX,USA,Project Manager,Bachelor,85000,3,461,Parties,"547, 192, 49"
+Robert,Fox,8,31,1997,user90@example.com,4524448214,Boston,MA,USA,Teacher,High School,40000,4,605,Gambling,
+Jamie,Kane,3,3,1986,user91@example.com,4028101151,San Francisco,CA,USA,Artist,Master,48000,5,829,Parties,"220, 158, 477"
+Stephen,Richard,7,20,1991,user92@example.com,2703806096,Phoenix,AZ,USA,Doctor,High School,120000,3,513,Gambling,"373, 518, 99, 745, 37"
+Donna,Young,8,8,1982,user93@example.com,1792082187,Phoenix,AZ,USA,Project Manager,Master,102000,0,811,Pets,"497, 302, 181, 607"
+Desiree,Graham,1,7,1985,user94@example.com,5374873351,Los Angeles,CA,USA,Nurse,Master,84000,0,609,Car,"700, 116"
+Gabriella,Acevedo,8,6,1991,user95@example.com,2057171185,New York,NY,USA,Software Engineer,Master,108000,4,586,Car,"253, 161, 256, 323, 128, 18"
+Elizabeth,Turner,3,12,1996,user96@example.com,9245601353,San Francisco,CA,USA,Project Manager,High School,68000,1,733,Car,
+Joseph,Johns,10,20,1978,user97@example.com,9313175260,San Francisco,CA,USA,Nurse,Master,84000,4,569,Parties,735
+Brandy,Harris,6,16,1991,user98@example.com,7528460192,Miami,FL,USA,Project Manager,Bachelor,85000,1,815,Pets,"570, 323, 686, 792, 626"
+Mary,Cortez,7,3,1982,user99@example.com,3239666144,Boston,MA,USA,Nurse,Master,84000,3,550,Parties,"663, 639, 155, 490, 386, 785"
+David,Frank,4,22,1979,user100@example.com,3408390038,Houston,TX,USA,Project Manager,PhD,118999,3,724,Parties,
+Troy,Haynes,7,19,1980,user101@example.com,4956436064,Denver,CO,USA,Artist,Bachelor,40000,1,410,Pets,
+Michael,Keller,6,3,1985,user102@example.com,6859385500,New York,NY,USA,Accountant,High School,48000,2,370,Pets,"246, 176"
+Jacob,Gray,7,9,1973,user103@example.com,6502812102,Los Angeles,CA,USA,Engineer,Master,96000,1,653,Pets,"477, 682, 759, 538, 408, 525"
+Kevin,Anderson,5,12,1992,user104@example.com,6017041116,New York,NY,USA,Data Scientist,High School,76000,3,498,Pets,"506, 36, 685"
+Gary,Patel,2,8,1992,user105@example.com,9421413970,New York,NY,USA,Consultant,Master,90000,1,607,Car,"321, 776, 512"
+Christopher,Robertson,2,23,1996,user106@example.com,4077527164,Boston,MA,USA,Consultant,High School,60000,0,839,Travel,"400, 654, 471, 143, 92"
+Stephanie,Bell,9,10,1996,user107@example.com,1180719851,San Francisco,CA,USA,Engineer,PhD,112000,1,689,Travel,800
+Shawn,Lara,9,24,1996,user108@example.com,9906627362,Denver,CO,USA,Artist,PhD,56000,4,820,Pets,"51, 665, 698, 575, 190, 125"
+Robert,Kennedy,3,8,1972,user109@example.com,8038093987,Miami,FL,USA,Engineer,High School,64000,1,317,Travel,"314, 570, 342, 305, 692"
+James,Jackson,6,13,1997,user110@example.com,3562195366,San Francisco,CA,USA,Consultant,High School,60000,4,455,Travel,783
+Alexandra,Watson,9,13,1985,user111@example.com,3261523831,Phoenix,AZ,USA,Accountant,High School,48000,5,479,Pets,"444, 613, 264, 53, 572"
+Matthew,Romero,2,26,1999,user112@example.com,2682923883,Los Angeles,CA,USA,Doctor,Bachelor,150000,3,486,Travel,"620, 5, 103"
+Jeremy,Acevedo,11,26,1995,user113@example.com,7972169748,Los Angeles,CA,USA,Accountant,Bachelor,60000,4,452,Parties,"774, 350, 47"
+Erica,Wright,5,26,1996,user114@example.com,2242030895,Phoenix,AZ,USA,Artist,High School,32000,3,459,Gambling,"656, 269"
+Lisa,Castro,8,18,1989,user115@example.com,7132711761,New York,NY,USA,Nurse,Master,84000,5,821,Gambling,636
+Troy,Chavez,6,8,1987,user116@example.com,4062864831,Boston,MA,USA,Teacher,Master,60000,5,399,Pets,670
+Dylan,Morgan,9,24,1970,user117@example.com,8393330311,Miami,FL,USA,Accountant,Bachelor,60000,0,310,Car,"657, 120"
+Robert,Young,4,9,1990,user118@example.com,2193154504,Denver,CO,USA,Engineer,Bachelor,80000,3,311,Pets,"787, 604, 58, 346, 741, 474"
+Kelly,Stanley,6,6,1987,user119@example.com,4921792804,Los Angeles,CA,USA,Artist,High School,32000,1,488,Car,"791, 127, 393, 641"
+Nicholas,Martinez,3,29,1995,user120@example.com,3793405858,Miami,FL,USA,Accountant,Bachelor,60000,1,649,Gambling,634
+Whitney,Mccall,2,4,1976,user121@example.com,5379040737,Chicago,IL,USA,Consultant,Master,90000,2,497,Pets,
+Michael,Robinson,9,26,1978,user122@example.com,1203935168,Seattle,WA,USA,Software Engineer,High School,72000,1,378,Rentals,"96, 638, 118, 560, 601, 488"
+Robin,Miller,6,19,1989,user123@example.com,1714743022,Los Angeles,CA,USA,Nurse,Bachelor,70000,2,717,Parties,"272, 189, 704, 447"
+Sylvia,Wise,5,9,1972,user124@example.com,1129369101,Phoenix,AZ,USA,Software Engineer,PhD,125999,1,339,Travel,"790, 247, 76, 154"
+Jennifer,Singleton,9,12,1996,user125@example.com,2825331690,Los Angeles,CA,USA,Accountant,PhD,84000,1,495,Car,"86, 697"
+Jennifer,Henson,8,2,1974,user126@example.com,3852193096,Miami,FL,USA,Project Manager,Master,102000,1,443,Rentals,"220, 69, 47, 94"
+Melissa,Cain,3,10,1982,user127@example.com,7250597828,Los Angeles,CA,USA,Project Manager,Master,102000,1,470,Travel,"453, 204, 218, 474, 432"
+Carol,Lewis,5,13,1988,user128@example.com,1400594944,Houston,TX,USA,Teacher,High School,40000,4,718,Travel,"551, 612, 289, 254"
+Karen,Phelps,8,20,1988,user129@example.com,2964251768,Seattle,WA,USA,Nurse,PhD,98000,0,468,Pets,"357, 23, 762, 522, 758"
+Heather,Fisher,8,15,1992,user130@example.com,5508422524,Seattle,WA,USA,Project Manager,PhD,118999,4,358,Travel,"100, 180, 223, 762"
+Samuel,Hernandez,6,27,2000,user131@example.com,6341790393,Seattle,WA,USA,Accountant,High School,48000,0,391,Parties,"442, 608"
+Toni,Martin,12,8,1985,user132@example.com,5403621045,Denver,CO,USA,Consultant,PhD,105000,1,756,Rentals,
+Sean,Gutierrez,3,17,1988,user133@example.com,7467215141,Seattle,WA,USA,Doctor,Bachelor,150000,3,793,Travel,"516, 16, 792, 336"
+Matthew,Robinson,8,20,1984,user134@example.com,2930785043,Phoenix,AZ,USA,Doctor,High School,120000,5,507,Pets,"258, 497, 160, 475, 664, 690"
+George,Hart,4,20,1973,user135@example.com,4593022842,New York,NY,USA,Teacher,PhD,70000,2,702,Parties,"380, 545"
+Brian,Garcia,11,15,1992,user136@example.com,3924464383,Los Angeles,CA,USA,Artist,PhD,56000,3,529,Gambling,
+Albert,Bradley,1,3,1977,user137@example.com,6724801802,Seattle,WA,USA,Engineer,High School,64000,0,717,Rentals,"691, 427, 613, 268"
+Pamela,Thompson,8,22,1998,user138@example.com,1548371503,Los Angeles,CA,USA,Project Manager,Bachelor,85000,1,303,Travel,"577, 417"
+Corey,Malone,10,26,1984,user139@example.com,9580917778,Chicago,IL,USA,Teacher,Bachelor,50000,2,811,Pets,43
+Shannon,Soto,8,22,1985,user140@example.com,1316088343,Seattle,WA,USA,Artist,PhD,56000,2,536,Gambling,"285, 397, 12"
+Terri,Torres,11,26,1990,user141@example.com,1533489543,Phoenix,AZ,USA,Accountant,PhD,84000,0,409,Gambling,"302, 253, 499, 754, 35, 727"
+Diane,Page,7,19,1999,user142@example.com,6720098717,Los Angeles,CA,USA,Project Manager,Bachelor,85000,5,808,Car,
+Melissa,Wagner,10,6,1974,user143@example.com,5360602028,Seattle,WA,USA,Artist,Master,48000,4,404,Parties,776
+Jonathan,Davis,4,7,1997,user144@example.com,7801513706,Chicago,IL,USA,Software Engineer,PhD,125999,3,445,Travel,"602, 418, 115, 617"
+Krystal,Smith,7,24,1985,user145@example.com,8226478169,Boston,MA,USA,Engineer,Bachelor,80000,4,795,Pets,"196, 501, 626, 493, 75, 413"
+Mary,Ortega,11,9,1978,user146@example.com,7267955582,Boston,MA,USA,Engineer,High School,64000,0,731,Car,"729, 277, 761"
+Brenda,Lee,12,21,1977,user147@example.com,1968428385,Phoenix,AZ,USA,Doctor,PhD,210000,3,780,Parties,"394, 457, 192"
+Brent,Chandler,10,1,1989,user148@example.com,1864436399,Boston,MA,USA,Data Scientist,PhD,133000,0,726,Car,"689, 99"
+Yvonne,Klein,10,28,1976,user149@example.com,3026839960,Los Angeles,CA,USA,Teacher,Master,60000,3,324,Rentals,"96, 664, 663"
+Deborah,Knight,4,9,1971,user150@example.com,4500867356,Phoenix,AZ,USA,Doctor,Bachelor,150000,1,365,Parties,"736, 37, 780, 369, 695"
+Bryan,Andrews,4,24,1984,user151@example.com,9439044147,Miami,FL,USA,Artist,Bachelor,40000,2,714,Parties,"279, 217, 798, 273"
+Jeffrey,Gonzalez,11,15,1984,user152@example.com,8526828198,Chicago,IL,USA,Doctor,High School,120000,5,332,Travel,
+Denise,Lucas,4,24,1988,user153@example.com,3307510925,Los Angeles,CA,USA,Software Engineer,Master,108000,2,784,Parties,"596, 729, 342, 397, 699"
+Matthew,Brown,8,5,1973,user154@example.com,7168830420,Houston,TX,USA,Project Manager,PhD,118999,1,784,Car,"177, 612"
+Jeffrey,Johnson,10,2,1973,user155@example.com,5689975910,San Francisco,CA,USA,Consultant,Bachelor,75000,5,381,Parties,"445, 233, 76"
+Timothy,Rodriguez,11,4,1976,user156@example.com,6466711630,Phoenix,AZ,USA,Software Engineer,Bachelor,90000,1,694,Travel,
+Destiny,Fox,2,27,2000,user157@example.com,8423289852,Phoenix,AZ,USA,Artist,High School,32000,5,479,Travel,"796, 718, 735, 384, 564, 506"
+Caitlin,Williamson,10,14,1973,user158@example.com,7261563817,Miami,FL,USA,Software Engineer,Bachelor,90000,3,374,Rentals,"144, 69, 99, 396, 25, 469"
+Samantha,Rogers,10,9,1991,user159@example.com,3648243675,Houston,TX,USA,Engineer,Bachelor,80000,1,319,Car,"565, 151, 144"
+Justin,Robinson,8,9,1978,user160@example.com,5454969205,Phoenix,AZ,USA,Teacher,PhD,70000,1,746,Gambling,
+Sean,Smith,1,17,1984,user161@example.com,2548143221,Chicago,IL,USA,Accountant,Bachelor,60000,5,573,Gambling,"109, 693, 42, 186, 398, 223"
+Evelyn,Zimmerman,5,13,1996,user162@example.com,2534784978,Seattle,WA,USA,Consultant,Bachelor,75000,4,495,Parties,133
+David,Craig,5,29,1975,user163@example.com,1587760018,Seattle,WA,USA,Artist,Master,48000,5,378,Rentals,"215, 733"
+Christina,Hayes,8,5,1992,user164@example.com,1374204541,San Francisco,CA,USA,Engineer,Bachelor,80000,3,561,Pets,"658, 751"
+Emily,Patterson,12,30,1985,user165@example.com,5993521338,Seattle,WA,USA,Teacher,PhD,70000,1,757,Parties,"9, 74, 492"
+David,Daniel,12,29,1989,user166@example.com,7660892234,Seattle,WA,USA,Project Manager,High School,68000,0,328,Rentals,
+Christopher,Browning,12,21,1971,user167@example.com,3867331967,Houston,TX,USA,Teacher,PhD,70000,4,762,Car,"230, 519, 174, 653"
+Mallory,Andersen,11,2,1971,user168@example.com,3036574665,Los Angeles,CA,USA,Data Scientist,Bachelor,95000,0,803,Car,393
+Patricia,George,5,3,1983,user169@example.com,7543412981,New York,NY,USA,Data Scientist,Bachelor,95000,0,811,Car,795
+Haley,Duarte,11,2,1987,user170@example.com,9380516130,Chicago,IL,USA,Project Manager,PhD,118999,0,792,Car,194
+Michael,Mcclain,3,18,1975,user171@example.com,6972148476,Houston,TX,USA,Project Manager,High School,68000,5,773,Car,"29, 165, 422, 339"
+Dawn,Daniel,8,13,1981,user172@example.com,4768541929,Phoenix,AZ,USA,Nurse,Bachelor,70000,4,328,Rentals,"342, 500, 657, 511"
+Christopher,Garcia,11,28,1973,user173@example.com,6055667637,Denver,CO,USA,Engineer,Master,96000,5,720,Rentals,"217, 301, 132, 70, 252, 415"
+Rebecca,Lawrence,9,28,1971,user174@example.com,6492812043,Denver,CO,USA,Nurse,High School,56000,2,773,Travel,"445, 182"
+Evan,Carter,4,22,1970,user175@example.com,4765059973,Miami,FL,USA,Teacher,Master,60000,0,467,Gambling,"91, 714, 531, 39, 126, 451"
+Daniel,Perry,2,25,2000,user176@example.com,9949031355,Boston,MA,USA,Consultant,Master,90000,2,318,Car,"653, 754, 220, 638"
+Jeffery,Adams,4,22,1990,user177@example.com,5703778248,New York,NY,USA,Project Manager,PhD,118999,5,595,Pets,660
+John,Boyd,4,15,1981,user178@example.com,4589283160,New York,NY,USA,Project Manager,High School,68000,5,549,Rentals,"456, 361, 1"
+Michelle,Hurst,8,24,1973,user179@example.com,2547792849,Houston,TX,USA,Nurse,Bachelor,70000,5,742,Pets,"348, 190"
+Diane,Mclaughlin,12,25,1997,user180@example.com,9108551581,Houston,TX,USA,Engineer,Bachelor,80000,0,527,Pets,
+Douglas,Gonzales,7,19,1999,user181@example.com,8917756883,Phoenix,AZ,USA,Software Engineer,Bachelor,90000,4,756,Pets,"508, 369, 409, 117, 134, 58"
+Mark,Lopez,8,22,1971,user182@example.com,1851853410,New York,NY,USA,Project Manager,PhD,118999,4,670,Travel,"685, 672, 173"
+Alan,Stafford,12,26,1975,user183@example.com,4821445079,San Francisco,CA,USA,Doctor,PhD,210000,3,586,Rentals,"149, 80, 213, 203"
+Jasmine,Campbell,4,19,1990,user184@example.com,1121405334,Los Angeles,CA,USA,Accountant,Master,72000,1,496,Pets,"229, 676, 227"
+Karen,Johnson,4,5,1998,user185@example.com,3924257521,Seattle,WA,USA,Doctor,High School,120000,1,759,Car,"532, 441"
+Daniel,Contreras,6,9,1989,user186@example.com,7828334403,Phoenix,AZ,USA,Data Scientist,Bachelor,95000,4,692,Parties,47
+Elizabeth,Brooks,1,27,1981,user187@example.com,6542162562,Denver,CO,USA,Consultant,PhD,105000,1,320,Pets,
+Mary,Johnson,6,14,1987,user188@example.com,5585166365,Boston,MA,USA,Data Scientist,High School,76000,1,591,Travel,
+Frank,Johnson,8,5,1998,user189@example.com,9764326833,New York,NY,USA,Data Scientist,PhD,133000,4,354,Rentals,"143, 415, 513, 373, 566"
+April,Bowen,6,3,1989,user190@example.com,4828838506,Los Angeles,CA,USA,Accountant,High School,48000,4,796,Travel,"259, 656, 471, 12, 330"
+Brittany,Johnson,8,27,2000,user191@example.com,3708702634,Chicago,IL,USA,Engineer,High School,64000,3,668,Pets,"408, 668, 373, 8, 122"
+James,Bridges,10,4,1989,user192@example.com,2454598484,Seattle,WA,USA,Artist,PhD,56000,4,714,Rentals,"676, 90, 648"
+Taylor,Cantu,3,7,1977,user193@example.com,5474533025,Los Angeles,CA,USA,Software Engineer,Bachelor,90000,4,594,Parties,316
+Martin,Patterson,7,6,1998,user194@example.com,4102859314,Denver,CO,USA,Data Scientist,Bachelor,95000,5,309,Pets,540
+Jesse,Bates,7,22,1988,user195@example.com,1951396200,Boston,MA,USA,Teacher,Bachelor,50000,2,768,Travel,"41, 740, 704"
+Mary,Clayton,4,29,1994,user196@example.com,9671116278,Boston,MA,USA,Engineer,High School,64000,1,624,Gambling,"502, 145"
+Jason,Thomas,11,25,1999,user197@example.com,5169874442,Miami,FL,USA,Artist,PhD,56000,2,453,Car,
+James,Soto,5,28,1977,user198@example.com,5805745716,Phoenix,AZ,USA,Project Manager,PhD,118999,0,792,Travel,
+Paula,Rodriguez,6,21,1993,user199@example.com,3962614475,Miami,FL,USA,Artist,Master,48000,5,604,Rentals,"724, 461, 732, 752"
+Mary,Miller,12,9,1992,user200@example.com,1217698081,Chicago,IL,USA,Teacher,Bachelor,50000,0,761,Pets,"558, 547, 253, 390"
+Noah,Griffith,10,1,1972,user201@example.com,9119397017,Houston,TX,USA,Doctor,Bachelor,150000,5,579,Car,256
+Michael,Ferguson,7,19,1996,user202@example.com,9176835062,Houston,TX,USA,Accountant,Bachelor,60000,4,363,Pets,"450, 10, 798, 242"
+Misty,Moore,4,23,1985,user203@example.com,9445933279,Denver,CO,USA,Consultant,PhD,105000,5,400,Rentals,"5, 119"
+Matthew,Velez,9,23,1996,user204@example.com,8945095752,Denver,CO,USA,Project Manager,Bachelor,85000,3,803,Pets,
+Kenneth,Robertson,4,5,1977,user205@example.com,3458754719,Chicago,IL,USA,Software Engineer,Master,108000,1,787,Gambling,"65, 146, 224, 239, 177"
+Joshua,Simmons,9,29,1971,user206@example.com,8196116662,San Francisco,CA,USA,Project Manager,Bachelor,85000,5,660,Car,"282, 63"
+Diane,Cox,4,27,1978,user207@example.com,2300897021,Seattle,WA,USA,Consultant,High School,60000,1,744,Car,
+Anna,Ray,5,4,1982,user208@example.com,7572739734,Miami,FL,USA,Artist,High School,32000,5,444,Rentals,"795, 689, 461, 610, 105"
+Brandy,Mack,9,5,1988,user209@example.com,5960947437,Miami,FL,USA,Teacher,High School,40000,4,791,Gambling,"511, 385"
+Emily,Graham,6,18,1987,user210@example.com,9675342312,Denver,CO,USA,Project Manager,Master,102000,0,742,Travel,"518, 476, 709, 645"
+Kevin,Reynolds,2,17,1978,user211@example.com,7597956606,Boston,MA,USA,Teacher,Bachelor,50000,5,795,Pets,"771, 437, 23, 565, 677"
+Alex,Smith,1,8,1993,user212@example.com,7898029152,Seattle,WA,USA,Artist,Bachelor,40000,2,496,Parties,458
+Jeanne,Daniels,12,29,1972,user213@example.com,3636861069,Denver,CO,USA,Doctor,PhD,210000,1,798,Pets,"145, 85"
+Tony,Herrera,5,20,1976,user214@example.com,8583825112,Los Angeles,CA,USA,Engineer,Master,96000,1,822,Pets,"457, 1, 51, 685, 717"
+Jennifer,Osborn,10,31,1973,user215@example.com,9601349318,Denver,CO,USA,Consultant,PhD,105000,4,580,Travel,"446, 449, 488"
+Dennis,Turner,4,28,1990,user216@example.com,5443916331,Seattle,WA,USA,Nurse,PhD,98000,5,665,Pets,348
+Jose,Gilbert,8,28,1979,user217@example.com,1683748473,Los Angeles,CA,USA,Engineer,PhD,112000,4,700,Gambling,"72, 551, 154, 250, 674, 438"
+Robert,Nicholson,10,21,1995,user218@example.com,2567756360,Miami,FL,USA,Consultant,Master,90000,2,738,Gambling,"771, 306, 268, 54, 236"
+Nancy,Allen,5,14,1991,user219@example.com,3564221281,Phoenix,AZ,USA,Engineer,PhD,112000,1,426,Car,"734, 763, 401, 624"
+Ashlee,James,4,7,1989,user220@example.com,2997086997,Phoenix,AZ,USA,Data Scientist,Bachelor,95000,1,535,Rentals,"303, 207, 229, 578, 75, 435"
+Ronald,Bryant,4,16,1972,user221@example.com,8518311396,Phoenix,AZ,USA,Software Engineer,High School,72000,5,380,Parties,"422, 704, 764, 738, 306, 98"
+Andrew,Conway,1,2,1980,user222@example.com,1244759576,Boston,MA,USA,Teacher,High School,40000,3,590,Pets,798
+Michele,Smith,9,12,1990,user223@example.com,1861561145,Miami,FL,USA,Project Manager,High School,68000,2,839,Pets,"435, 447, 308, 249, 166, 481"
+Stacey,Lane,9,8,1994,user224@example.com,5880436923,Boston,MA,USA,Artist,High School,32000,1,451,Travel,"542, 759, 106, 563, 81, 133"
+April,Hood,5,5,1986,user225@example.com,2052826645,Seattle,WA,USA,Doctor,Bachelor,150000,4,516,Rentals,"138, 184, 401, 330"
+Richard,Hardy,6,16,1975,user226@example.com,2792919524,Chicago,IL,USA,Teacher,PhD,70000,5,664,Gambling,
+Megan,Hernandez,11,18,1979,user227@example.com,9270113057,Seattle,WA,USA,Teacher,High School,40000,3,479,Parties,"69, 546, 774"
+Richard,Allen,6,15,2000,user228@example.com,9204544923,Boston,MA,USA,Software Engineer,High School,72000,0,320,Car,"450, 205, 126, 747"
+Aaron,Atkins,11,11,1995,user229@example.com,8326490016,Boston,MA,USA,Artist,PhD,56000,5,304,Gambling,"752, 111"
+Jason,Perez,8,18,1993,user230@example.com,3438886665,San Francisco,CA,USA,Consultant,PhD,105000,3,536,Rentals,
+Benjamin,Garza,12,18,1992,user231@example.com,5158451063,Denver,CO,USA,Doctor,Bachelor,150000,0,390,Car,"183, 95, 374, 520, 360, 696"
+Rachel,Perez,3,26,1997,user232@example.com,3230928585,San Francisco,CA,USA,Engineer,High School,64000,3,513,Travel,
+Rebecca,Espinoza,1,22,1987,user233@example.com,3884907259,Phoenix,AZ,USA,Nurse,High School,56000,2,731,Travel,"195, 667"
+Zachary,Robinson,8,8,1984,user234@example.com,3670624005,Miami,FL,USA,Consultant,PhD,105000,0,314,Pets,"672, 61, 634, 51"
+Elizabeth,Vang,8,13,1992,user235@example.com,1288658960,Boston,MA,USA,Artist,High School,32000,1,329,Rentals,"789, 5"
+Holly,Walters,12,11,1979,user236@example.com,8664367955,Seattle,WA,USA,Software Engineer,High School,72000,1,686,Parties,604
+Michael,Gutierrez,5,6,1971,user237@example.com,1714957686,Houston,TX,USA,Data Scientist,High School,76000,2,686,Car,534
+Jasmine,Franklin,4,22,1974,user238@example.com,3946417179,Denver,CO,USA,Engineer,Bachelor,80000,3,834,Gambling,"513, 645, 233, 524"
+Ashley,Tyler,10,20,1970,user239@example.com,1638510154,Denver,CO,USA,Project Manager,High School,68000,2,805,Rentals,46
+Jenny,Brooks,1,19,1981,user240@example.com,7113467659,New York,NY,USA,Teacher,High School,40000,5,619,Rentals,78
+Robert,Boyd,4,3,1984,user241@example.com,3766720226,Phoenix,AZ,USA,Accountant,PhD,84000,5,750,Travel,73
+Karen,Rivas,5,24,1977,user242@example.com,7418911987,Phoenix,AZ,USA,Project Manager,Bachelor,85000,3,451,Pets,249
+Andrea,King,7,26,1981,user243@example.com,1878729808,Phoenix,AZ,USA,Doctor,Bachelor,150000,4,843,Pets,"121, 214, 239, 56, 350, 107"
+David,Terry,2,24,1978,user244@example.com,6904315214,Denver,CO,USA,Doctor,PhD,210000,3,313,Car,"48, 573, 337, 26, 257, 8"
+William,Ayala,2,19,1984,user245@example.com,4756202210,Los Angeles,CA,USA,Accountant,Master,72000,2,823,Travel,
+Katherine,Stewart,3,24,1978,user246@example.com,5223758451,Miami,FL,USA,Doctor,High School,120000,0,545,Rentals,"253, 692"
+Suzanne,Gonzalez,5,9,1972,user247@example.com,7911210267,Phoenix,AZ,USA,Software Engineer,PhD,125999,4,310,Parties,"303, 639, 56, 726, 526, 474"
+Cynthia,Woods,3,12,1983,user248@example.com,4854666210,Miami,FL,USA,Doctor,Master,180000,3,827,Travel,"78, 216, 386"
+Denise,Powell,6,9,1975,user249@example.com,2937755840,Houston,TX,USA,Project Manager,PhD,118999,4,498,Car,"666, 526, 699, 312"
+Nicholas,Rowe,12,21,1983,user250@example.com,7461111038,Seattle,WA,USA,Data Scientist,High School,76000,0,578,Car,"7, 3"
+Craig,Williams,4,25,1970,user251@example.com,7466972403,Los Angeles,CA,USA,Teacher,High School,40000,4,837,Travel,"750, 363, 751, 508, 274, 506"
+Emily,Johnson,9,7,1997,user252@example.com,9680159659,New York,NY,USA,Teacher,Master,60000,0,768,Car,"739, 15, 192, 631, 485"
+Jeffrey,Lee,2,29,1984,user253@example.com,7335099472,Miami,FL,USA,Consultant,High School,60000,2,483,Travel,"714, 39, 273"
+David,Lowe,1,2,1988,user254@example.com,1344092478,Chicago,IL,USA,Software Engineer,Bachelor,90000,5,830,Gambling,"86, 474, 126, 537, 145, 525"
+Arthur,Weaver,7,12,1990,user255@example.com,3009108988,Miami,FL,USA,Software Engineer,High School,72000,2,325,Travel,"25, 580, 394"
+Angela,Mills,4,21,1986,user256@example.com,8420675803,Phoenix,AZ,USA,Teacher,High School,40000,1,796,Travel,"233, 109"
+Danielle,Thompson,9,1,1987,user257@example.com,6152299380,Houston,TX,USA,Data Scientist,Bachelor,95000,5,468,Car,111
+Gabrielle,Robinson,9,10,1993,user258@example.com,3992118398,Phoenix,AZ,USA,Data Scientist,High School,76000,5,821,Car,"111, 470, 34"
+Pamela,Hardin,5,9,1981,user259@example.com,6863778987,Phoenix,AZ,USA,Doctor,Bachelor,150000,0,326,Pets,"776, 369, 748, 595, 554, 425"
+Christopher,Craig,9,5,2000,user260@example.com,2005534643,Phoenix,AZ,USA,Consultant,PhD,105000,3,512,Pets,"518, 692, 282, 320"
+Christina,Kramer,3,25,1970,user261@example.com,6872428568,Phoenix,AZ,USA,Engineer,Master,96000,0,769,Gambling,443
+Jeffrey,Sweeney,9,22,1999,user262@example.com,9211801800,Chicago,IL,USA,Artist,PhD,56000,2,785,Pets,"741, 377"
+Miguel,Wells,3,15,1987,user263@example.com,7128193580,Boston,MA,USA,Doctor,High School,120000,1,785,Travel,
+Judy,Alvarado,4,9,1999,user264@example.com,7598402660,Miami,FL,USA,Teacher,PhD,70000,4,488,Car,"662, 277, 710, 582"
+Gary,Jennings,3,21,1971,user265@example.com,3387687473,Miami,FL,USA,Accountant,High School,48000,0,775,Pets,"624, 516, 350, 446, 350, 607"
+Dustin,Wyatt,2,4,1991,user266@example.com,3903053397,Phoenix,AZ,USA,Artist,PhD,56000,4,766,Pets,"137, 759, 243, 543, 40, 229"
+Benjamin,Daniel,2,20,1994,user267@example.com,1487526366,Denver,CO,USA,Doctor,Bachelor,150000,3,674,Gambling,"223, 6, 322"
+Michael,Harris,9,6,1982,user268@example.com,9631630918,Chicago,IL,USA,Teacher,Bachelor,50000,2,764,Rentals,"732, 75, 4"
+Kimberly,Yang,2,7,1987,user269@example.com,9129181143,Miami,FL,USA,Accountant,High School,48000,5,612,Gambling,"646, 118, 606, 504, 574, 441"
+Charles,Gibson,4,29,1995,user270@example.com,9181825578,Denver,CO,USA,Nurse,Bachelor,70000,0,696,Travel,715
+Hector,Lewis,5,26,1994,user271@example.com,4699554505,Boston,MA,USA,Software Engineer,Master,108000,5,670,Car,435
+Andrew,Ramirez,2,16,1991,user272@example.com,9030218190,Phoenix,AZ,USA,Accountant,High School,48000,2,405,Gambling,"300, 645, 326, 410"
+Sherri,Ramos,7,3,1977,user273@example.com,8406529785,Seattle,WA,USA,Nurse,Bachelor,70000,0,559,Pets,"787, 724, 225, 532, 113"
+Peter,Haynes,4,25,1976,user274@example.com,2336852877,Seattle,WA,USA,Software Engineer,Bachelor,90000,2,305,Car,"559, 1, 90"
+Melanie,Benson,12,8,1994,user275@example.com,4299301221,Miami,FL,USA,Teacher,Master,60000,0,488,Car,"320, 550, 139, 511, 259"
+Jeffrey,King,8,23,1978,user276@example.com,8569386576,Chicago,IL,USA,Teacher,PhD,70000,1,595,Pets,
+Crystal,Santos,4,22,1999,user277@example.com,1207745187,Chicago,IL,USA,Data Scientist,Bachelor,95000,4,326,Gambling,"690, 10, 261, 650, 172"
+Mark,Christensen,8,11,1971,user278@example.com,1593201497,Los Angeles,CA,USA,Teacher,High School,40000,3,643,Pets,13
+Diana,Combs,7,20,1998,user279@example.com,1329704194,Denver,CO,USA,Software Engineer,Master,108000,1,665,Rentals,596
+Brandon,Woods,2,7,1999,user280@example.com,5544390696,New York,NY,USA,Artist,Master,48000,4,737,Car,
+Kevin,Bell,6,20,1997,user281@example.com,8829077166,Denver,CO,USA,Engineer,Master,96000,4,460,Parties,"613, 329, 785, 777, 550, 419"
+Sandra,Yu,12,12,1990,user282@example.com,8607587097,New York,NY,USA,Doctor,Bachelor,150000,3,452,Parties,"95, 581, 318, 236, 334"
+Andrew,Smith,10,13,1986,user283@example.com,8826623915,Boston,MA,USA,Nurse,Master,84000,0,740,Travel,"376, 459, 137, 588"
+Nicholas,Martinez,10,5,1981,user284@example.com,3650279283,Seattle,WA,USA,Teacher,Bachelor,50000,5,464,Pets,"547, 513"
+Cheryl,Tucker,6,18,1992,user285@example.com,9004866172,Chicago,IL,USA,Doctor,Master,180000,2,697,Pets,"572, 349, 779, 229, 270"
+Diane,Davis,4,24,1992,user286@example.com,5917001902,Los Angeles,CA,USA,Data Scientist,Master,114000,3,427,Travel,"798, 291, 725"
+Mark,Thompson,9,12,1972,user287@example.com,9266464679,Miami,FL,USA,Engineer,Master,96000,4,573,Travel,"5, 379, 78, 410"
+Brendan,Myers,4,16,1988,user288@example.com,3389561892,New York,NY,USA,Software Engineer,High School,72000,3,636,Travel,"132, 601, 749, 42, 89"
+Dale,Hamilton,11,27,1993,user289@example.com,6123364829,Miami,FL,USA,Software Engineer,High School,72000,4,549,Car,296
+Larry,Park,10,18,1980,user290@example.com,5031222302,San Francisco,CA,USA,Nurse,Bachelor,70000,3,576,Rentals,"616, 526, 800, 691, 637, 422"
+Laura,Mcdonald,7,17,1974,user291@example.com,3092579583,Phoenix,AZ,USA,Teacher,High School,40000,5,415,Pets,
+Christopher,Thompson,12,15,1971,user292@example.com,1222713459,New York,NY,USA,Teacher,PhD,70000,3,473,Car,"575, 143, 665, 145, 225, 503"
+Amanda,Hill,5,27,1990,user293@example.com,8865015415,Houston,TX,USA,Data Scientist,PhD,133000,5,798,Travel,616
+Michelle,Livingston,12,10,1994,user294@example.com,3391069780,New York,NY,USA,Teacher,Bachelor,50000,0,321,Pets,"39, 198"
+Kimberly,Phelps,8,16,1993,user295@example.com,4972372872,Miami,FL,USA,Artist,PhD,56000,0,403,Car,"579, 391, 179, 554, 448"
+Deborah,Wagner,11,22,1971,user296@example.com,5097716949,Miami,FL,USA,Engineer,Master,96000,4,573,Rentals,"15, 623, 669"
+Nicholas,Knight,2,2,1994,user297@example.com,5874458846,Miami,FL,USA,Teacher,Master,60000,1,442,Car,
+Carmen,Jones,9,22,1986,user298@example.com,3654337774,Miami,FL,USA,Software Engineer,Master,108000,4,464,Rentals,"478, 231, 420"
+Jodi,Novak,6,24,1996,user299@example.com,5532080064,Houston,TX,USA,Consultant,High School,60000,1,783,Travel,"550, 441, 97, 411"
+Amanda,Johnson,12,10,1996,user300@example.com,7764243056,San Francisco,CA,USA,Accountant,High School,48000,4,336,Rentals,"289, 254, 196, 598, 522, 517"
+Brittany,Gallagher,5,27,1980,user301@example.com,4494129518,Phoenix,AZ,USA,Engineer,High School,64000,1,601,Pets,"118, 159"
+Valerie,Kelly,8,15,2000,user302@example.com,2106014527,New York,NY,USA,Accountant,Master,72000,4,709,Travel,"228, 216, 696, 15, 157, 648"
+Heather,Long,6,28,1981,user303@example.com,7829650963,San Francisco,CA,USA,Accountant,PhD,84000,2,619,Pets,"157, 47, 324, 685"
+Mark,Ellis,9,9,1990,user304@example.com,4749172868,Phoenix,AZ,USA,Data Scientist,Master,114000,1,673,Parties,411
+Jill,Bridges,9,1,1984,user305@example.com,1691981742,Chicago,IL,USA,Artist,PhD,56000,5,683,Gambling,"627, 755, 292, 794, 283, 69"
+Karen,Graham,6,15,1981,user306@example.com,3859562328,Miami,FL,USA,Software Engineer,High School,72000,4,396,Rentals,"11, 254, 550"
+Lindsey,Thomas,11,17,1988,user307@example.com,2648744744,Houston,TX,USA,Consultant,Bachelor,75000,0,319,Gambling,"712, 23, 346, 302, 363"
+Justin,Ferguson,2,5,1987,user308@example.com,1289804823,Chicago,IL,USA,Doctor,Master,180000,0,538,Gambling,"218, 141, 616"
+Charles,Lopez,8,23,1994,user309@example.com,9438326783,Houston,TX,USA,Accountant,High School,48000,2,407,Rentals,"210, 623, 616, 683, 460"
+Meghan,Rosales,2,16,1993,user310@example.com,9025372764,Miami,FL,USA,Engineer,PhD,112000,1,336,Travel,"356, 324, 133"
+William,Morales,5,4,1983,user311@example.com,9967677490,Houston,TX,USA,Consultant,High School,60000,0,401,Parties,"127, 106, 604, 799"
+Sandra,Collins,4,25,1982,user312@example.com,2678725948,New York,NY,USA,Engineer,PhD,112000,5,746,Pets,51
+Katherine,Thompson,2,13,1971,user313@example.com,5105029214,Houston,TX,USA,Doctor,Master,180000,0,506,Car,"462, 296, 297, 726"
+Brandi,Wright,12,26,1971,user314@example.com,1689708368,New York,NY,USA,Accountant,Bachelor,60000,1,300,Pets,"407, 769"
+David,Schroeder,7,13,1995,user315@example.com,2108791690,Boston,MA,USA,Artist,High School,32000,2,661,Car,"613, 405, 346, 622, 420"
+Colin,Wolfe,4,10,1992,user316@example.com,1682559863,Denver,CO,USA,Teacher,Master,60000,1,757,Pets,"1, 567, 371, 661, 431"
+Sandra,Dominguez,7,8,2000,user317@example.com,8731908813,New York,NY,USA,Doctor,Bachelor,150000,3,315,Rentals,
+Donald,Evans,7,26,1982,user318@example.com,2929587473,Los Angeles,CA,USA,Doctor,Master,180000,5,589,Parties,"137, 202, 436, 313"
+Teresa,West,5,13,1973,user319@example.com,9899701517,Denver,CO,USA,Nurse,Master,84000,3,755,Car,"666, 575, 244, 537"
+Matthew,Mitchell,9,8,1985,user320@example.com,8283329945,San Francisco,CA,USA,Accountant,Master,72000,5,315,Travel,75
+Deborah,Perez,8,20,1986,user321@example.com,7004082686,New York,NY,USA,Artist,Bachelor,40000,3,419,Pets,"386, 210, 475, 418, 347"
+Erica,Davis,3,1,1996,user322@example.com,2173326548,Miami,FL,USA,Data Scientist,Master,114000,1,378,Pets,
+Adam,Benitez,11,21,1997,user323@example.com,7792480005,Houston,TX,USA,Doctor,High School,120000,0,403,Car,"763, 179"
+Joseph,Taylor,10,7,1987,user324@example.com,3580396119,Boston,MA,USA,Doctor,High School,120000,4,593,Travel,"664, 25, 180, 710, 501"
+April,Wagner,9,26,1985,user325@example.com,2221794059,Seattle,WA,USA,Accountant,Bachelor,60000,0,590,Travel,
+Ruth,Hughes,8,10,1996,user326@example.com,3070970780,Houston,TX,USA,Engineer,Bachelor,80000,0,687,Rentals,
+Lucas,Johnson,5,16,1994,user327@example.com,8975996106,San Francisco,CA,USA,Artist,Master,48000,0,538,Rentals,"63, 662, 666, 156"
+Shirley,Wang,2,2,1975,user328@example.com,7343411844,Chicago,IL,USA,Engineer,PhD,112000,2,849,Rentals,469
+Erin,Stark,9,23,1990,user329@example.com,9689613329,Boston,MA,USA,Engineer,Bachelor,80000,1,772,Rentals,
+Edward,Marquez,2,10,1992,user330@example.com,1423834796,Los Angeles,CA,USA,Teacher,PhD,70000,3,370,Rentals,"84, 361, 689, 148, 630, 342"
+Mike,Farmer,11,5,1995,user331@example.com,4930429690,Los Angeles,CA,USA,Consultant,Bachelor,75000,0,542,Rentals,"63, 701, 360"
+James,Castillo,5,15,1988,user332@example.com,4249245841,Houston,TX,USA,Engineer,High School,64000,2,747,Parties,
+Craig,Martinez,7,6,1988,user333@example.com,1334489238,Boston,MA,USA,Nurse,High School,56000,4,815,Travel,"769, 736, 141, 215, 435, 723"
+Jeffrey,Lawrence,12,7,1974,user334@example.com,2861744376,Chicago,IL,USA,Artist,Bachelor,40000,5,377,Rentals,"32, 670, 285, 305, 429"
+Logan,Glover,12,23,1997,user335@example.com,8326406941,Los Angeles,CA,USA,Teacher,High School,40000,2,512,Travel,"286, 144, 424, 19"
+Ethan,Fowler,4,15,1985,user336@example.com,9229828469,New York,NY,USA,Artist,PhD,56000,0,522,Travel,769
+Matthew,Carroll,9,6,1980,user337@example.com,3375794511,Houston,TX,USA,Engineer,High School,64000,0,564,Gambling,"371, 175, 194, 502, 113"
+Gail,Alvarez,1,1,1986,user338@example.com,3258554757,New York,NY,USA,Doctor,High School,120000,4,817,Parties,222
+Teresa,White,10,26,1976,user339@example.com,8833551539,San Francisco,CA,USA,Doctor,High School,120000,3,375,Rentals,"644, 264, 55, 643, 800"
+Kathryn,Hawkins,10,20,1991,user340@example.com,2344552046,San Francisco,CA,USA,Consultant,PhD,105000,2,511,Pets,458
+Kari,Lozano,12,14,1994,user341@example.com,5477165585,Miami,FL,USA,Software Engineer,PhD,125999,4,487,Car,"162, 380"
+Frederick,Kim,12,25,1972,user342@example.com,8345637915,New York,NY,USA,Software Engineer,Master,108000,1,433,Pets,
+Kyle,Frey,2,28,1991,user343@example.com,1076388161,Los Angeles,CA,USA,Software Engineer,Bachelor,90000,0,509,Parties,"55, 476, 800, 178, 391, 349"
+Joanna,Cox,6,14,1985,user344@example.com,3262309661,Chicago,IL,USA,Data Scientist,Master,114000,2,459,Car,
+Jennifer,Cummings,12,10,1981,user345@example.com,9877232685,Boston,MA,USA,Doctor,Master,180000,0,588,Parties,
+Paula,Johnson,5,3,1994,user346@example.com,7041538768,Denver,CO,USA,Accountant,Master,72000,3,454,Travel,"443, 767, 328, 54, 761, 239"
+Adam,Bennett,3,12,1986,user347@example.com,2206336102,Seattle,WA,USA,Software Engineer,PhD,125999,1,671,Car,"579, 51, 609, 604"
+Victoria,Wallace,12,14,1975,user348@example.com,5430882760,New York,NY,USA,Software Engineer,Master,108000,3,420,Travel,"264, 418, 96, 88, 78, 288"
+Kathryn,Chavez,12,1,1983,user349@example.com,2901611061,Miami,FL,USA,Doctor,Bachelor,150000,1,511,Pets,"491, 452, 500, 165, 182"
+Kathy,Garcia,5,23,1993,user350@example.com,6632183790,Phoenix,AZ,USA,Teacher,Bachelor,50000,4,682,Pets,"735, 7, 330, 775"
+Karen,Miller,4,2,1983,user351@example.com,5604425435,Seattle,WA,USA,Consultant,PhD,105000,0,704,Car,
+Tiffany,Murray,8,13,1982,user352@example.com,8972446680,Houston,TX,USA,Engineer,PhD,112000,3,422,Car,"85, 147, 624, 381, 548, 285"
+Michelle,Phillips,8,12,1981,user353@example.com,2580340608,New York,NY,USA,Software Engineer,PhD,125999,1,393,Rentals,"82, 514, 709"
+Shannon,Cole,12,7,1978,user354@example.com,6989118426,Chicago,IL,USA,Teacher,PhD,70000,1,553,Parties,"523, 746, 386"
+James,Chapman,1,18,1981,user355@example.com,7770284458,New York,NY,USA,Doctor,Bachelor,150000,1,692,Rentals,"471, 119"
+Christopher,Jones,7,13,1971,user356@example.com,8898480156,Seattle,WA,USA,Consultant,Master,90000,2,503,Parties,"532, 261, 256"
+Debra,Ramirez,8,28,1997,user357@example.com,4222670880,Los Angeles,CA,USA,Accountant,PhD,84000,2,539,Rentals,"226, 53, 500, 506, 364"
+Melinda,Moody,8,10,2000,user358@example.com,6283840635,Los Angeles,CA,USA,Accountant,PhD,84000,3,442,Travel,
+Jack,Walton,9,16,1988,user359@example.com,6941403210,Houston,TX,USA,Project Manager,High School,68000,4,783,Car,158
+Paul,Benton,3,8,1975,user360@example.com,6159716071,Denver,CO,USA,Teacher,PhD,70000,3,442,Pets,"727, 128"
+Scott,Santiago,8,4,1989,user361@example.com,4867861179,Seattle,WA,USA,Teacher,Bachelor,50000,2,385,Parties,
+Robert,Decker,12,20,1992,user362@example.com,1389058862,Houston,TX,USA,Data Scientist,High School,76000,5,684,Parties,115
+Brittany,Miller,11,22,1970,user363@example.com,3486117959,Boston,MA,USA,Accountant,Master,72000,0,683,Pets,
+Jonathan,Clay,11,9,1999,user364@example.com,5381584672,Chicago,IL,USA,Teacher,PhD,70000,4,350,Rentals,"521, 552, 237, 281, 359"
+Brandon,Lowery,4,10,1988,user365@example.com,1745191928,Houston,TX,USA,Software Engineer,Bachelor,90000,0,681,Parties,
+Bryan,Cole,9,19,1998,user366@example.com,6716418613,Houston,TX,USA,Consultant,Bachelor,75000,5,608,Travel,"278, 235, 494, 4, 666"
+Erin,Garcia,4,29,1971,user367@example.com,6866312433,New York,NY,USA,Nurse,Master,84000,0,411,Car,29
+Jessica,Downs,2,22,1977,user368@example.com,5900211503,Los Angeles,CA,USA,Nurse,Master,84000,4,585,Pets,"610, 727, 75, 146"
+Lucas,Pennington,8,18,1976,user369@example.com,8734676580,Miami,FL,USA,Artist,PhD,56000,5,388,Car,"42, 356, 41, 34"
+William,Johnson,10,30,1982,user370@example.com,6709780325,Chicago,IL,USA,Accountant,Bachelor,60000,1,396,Parties,
+Anna,Hutchinson,7,29,1992,user371@example.com,6472642972,San Francisco,CA,USA,Engineer,High School,64000,4,359,Parties,"153, 378, 588, 599"
+Marie,Daniel,8,8,1980,user372@example.com,6262889031,Miami,FL,USA,Teacher,PhD,70000,5,371,Pets,"342, 27, 287, 646"
+Dawn,Howard,9,23,1997,user373@example.com,5334596552,Chicago,IL,USA,Project Manager,Bachelor,85000,5,696,Travel,"168, 610"
+Nicholas,Gibson,2,4,1976,user374@example.com,7860817234,Boston,MA,USA,Nurse,PhD,98000,2,539,Gambling,"749, 455, 685"
+Jeffery,Rangel,8,8,1977,user375@example.com,3488120530,Boston,MA,USA,Software Engineer,PhD,125999,5,794,Pets,
+Robin,Wilson,10,14,1971,user376@example.com,6556201861,San Francisco,CA,USA,Doctor,Bachelor,150000,1,618,Gambling,476
+Vanessa,Richardson,9,12,2000,user377@example.com,4138863388,Phoenix,AZ,USA,Artist,Bachelor,40000,3,580,Rentals,"634, 558, 576, 130, 363"
+Joseph,Bernard,3,21,1977,user378@example.com,7102630511,Denver,CO,USA,Data Scientist,High School,76000,1,599,Gambling,
+Adam,Heath,3,31,1992,user379@example.com,1056795943,Miami,FL,USA,Doctor,Master,180000,3,551,Travel,"693, 292"
+Sarah,Lynn,12,11,1973,user380@example.com,1203287846,Phoenix,AZ,USA,Doctor,High School,120000,0,411,Rentals,"794, 29"
+Kayla,Dunlap,4,20,1971,user381@example.com,3181082576,Denver,CO,USA,Accountant,PhD,84000,3,323,Gambling,"779, 296, 11, 512"
+Joyce,Allen,5,28,1985,user382@example.com,1212188829,Denver,CO,USA,Nurse,High School,56000,5,559,Rentals,"113, 187, 744"
+William,Bailey,9,21,2000,user383@example.com,4964724930,San Francisco,CA,USA,Teacher,PhD,70000,2,523,Gambling,"310, 98"
+David,Hendrix,10,6,1999,user384@example.com,6958882983,Chicago,IL,USA,Accountant,Master,72000,4,562,Travel,"623, 664, 758, 406, 69, 312"
+Kathryn,Yoder,1,26,1999,user385@example.com,9484641806,Denver,CO,USA,Engineer,Bachelor,80000,4,452,Gambling,
+Robert,Thornton,2,7,1987,user386@example.com,2226123135,Chicago,IL,USA,Software Engineer,Bachelor,90000,5,546,Gambling,548
+Kevin,Matthews,2,18,1990,user387@example.com,7604719477,Chicago,IL,USA,Project Manager,Bachelor,85000,4,585,Gambling,"148, 467, 739, 244, 491, 507"
+Margaret,Wang,10,1,1970,user388@example.com,8692867107,San Francisco,CA,USA,Doctor,Master,180000,1,357,Pets,"482, 201, 154, 450"
+Richard,Crawford,9,10,1971,user389@example.com,2151258476,Chicago,IL,USA,Doctor,PhD,210000,1,307,Pets,"73, 713, 296, 17"
+Tom,Smith,10,25,1976,user390@example.com,5528129450,Miami,FL,USA,Accountant,High School,48000,5,728,Pets,
+Samantha,Garcia,12,26,1992,user391@example.com,6122852533,Houston,TX,USA,Data Scientist,PhD,133000,5,555,Travel,
+Megan,Parker,12,17,1978,user392@example.com,6071351047,Boston,MA,USA,Nurse,Master,84000,4,681,Rentals,"616, 42, 25, 39"
+Thomas,Smith,9,27,1973,user393@example.com,9117067743,Phoenix,AZ,USA,Software Engineer,High School,72000,1,619,Parties,"131, 498"
+George,Rodriguez,9,25,1994,user394@example.com,6670050618,Seattle,WA,USA,Teacher,High School,40000,1,415,Gambling,"108, 172, 435, 478"
+Katherine,Lee,10,8,1995,user395@example.com,3435822722,Chicago,IL,USA,Doctor,Bachelor,150000,2,727,Gambling,"524, 275, 613, 44, 17"
+Deanna,Powers,7,23,1980,user396@example.com,1660473420,Phoenix,AZ,USA,Software Engineer,PhD,125999,1,808,Travel,569
+Kathryn,Burke,1,4,1989,user397@example.com,6759177958,Denver,CO,USA,Data Scientist,Master,114000,0,309,Gambling,"497, 12, 318, 592, 216, 339"
+Theresa,Buckley,3,24,1979,user398@example.com,3756030935,Houston,TX,USA,Data Scientist,High School,76000,0,784,Pets,"661, 81, 727, 485, 374, 710"
+Robert,Morrison,6,19,1987,user399@example.com,8296227745,Seattle,WA,USA,Accountant,Master,72000,2,742,Parties,
+Scott,Richardson,4,10,1985,user400@example.com,4429408485,Miami,FL,USA,Nurse,High School,56000,5,776,Car,89
+David,Goodman,2,13,1993,user401@example.com,5606623496,Boston,MA,USA,Data Scientist,High School,76000,1,823,Gambling,"655, 571, 489"
+Robin,Mitchell,9,11,1976,user402@example.com,8762236149,Chicago,IL,USA,Teacher,Master,60000,1,518,Pets,"538, 47, 288, 778"
+Joy,Kirby,5,19,1980,user403@example.com,7578718916,Chicago,IL,USA,Accountant,PhD,84000,5,576,Car,"401, 794, 86, 250, 391, 782"
+Ashley,Murphy,8,23,1991,user404@example.com,4115084803,Houston,TX,USA,Doctor,PhD,210000,2,609,Parties,"629, 519, 137, 688, 498, 727"
+Christopher,Contreras,4,24,1990,user405@example.com,6372037139,Phoenix,AZ,USA,Engineer,PhD,112000,5,786,Car,"594, 223, 372, 402"
+Ian,Harrell,5,10,1991,user406@example.com,9983222246,Miami,FL,USA,Artist,PhD,56000,2,595,Pets,"490, 615"
+Katherine,Porter,10,9,1980,user407@example.com,1394021290,New York,NY,USA,Doctor,Master,180000,1,751,Rentals,
+Brandon,Scott,7,26,1987,user408@example.com,7433921187,San Francisco,CA,USA,Nurse,PhD,98000,5,358,Rentals,"159, 152, 620, 188, 98"
+Jeremy,Flowers,10,3,1994,user409@example.com,8883051284,Seattle,WA,USA,Data Scientist,Bachelor,95000,5,721,Car,"171, 183"
+Susan,Smith,5,6,1977,user410@example.com,8828210697,San Francisco,CA,USA,Teacher,Master,60000,0,414,Travel,"364, 39, 527, 497, 516, 349"
+Cassidy,Winters,12,20,1978,user411@example.com,7188506867,Chicago,IL,USA,Software Engineer,Bachelor,90000,4,340,Car,"397, 722, 161, 16, 493"
+Christina,Fowler,5,5,1982,user412@example.com,6076352607,Miami,FL,USA,Artist,Master,48000,4,607,Gambling,108
+Christopher,Torres,4,30,1972,user413@example.com,5409163760,Phoenix,AZ,USA,Data Scientist,Bachelor,95000,0,819,Gambling,"450, 311, 739, 170, 546"
+Gregory,Peterson,3,26,1973,user414@example.com,3347571169,Phoenix,AZ,USA,Data Scientist,Bachelor,95000,4,461,Rentals,"251, 759, 781, 141, 274"
+Tiffany,Rios,8,26,1987,user415@example.com,3930846171,Seattle,WA,USA,Nurse,Bachelor,70000,4,447,Travel,"39, 29"
+Tyler,Lawrence,11,16,1977,user416@example.com,2034477016,San Francisco,CA,USA,Project Manager,Bachelor,85000,1,571,Pets,"477, 318, 245, 748, 697"
+William,Smith,7,11,1993,user417@example.com,7305697145,Los Angeles,CA,USA,Data Scientist,High School,76000,3,546,Gambling,"239, 377, 266"
+Elizabeth,Hunter,10,22,1991,user418@example.com,6362828617,Boston,MA,USA,Project Manager,Bachelor,85000,1,419,Rentals,"359, 340, 389, 577, 689"
+Sharon,Wilson,11,4,2000,user419@example.com,8185693514,San Francisco,CA,USA,Accountant,High School,48000,0,453,Parties,"429, 142"
+Juan,Taylor,7,5,1983,user420@example.com,7554726253,Miami,FL,USA,Nurse,High School,56000,0,822,Rentals,"324, 146, 293, 665, 432"
+Latoya,Lopez,6,19,1990,user421@example.com,5610904288,Houston,TX,USA,Accountant,PhD,84000,5,709,Gambling,
+John,Rosales,2,23,1980,user422@example.com,6343492373,New York,NY,USA,Software Engineer,Master,108000,4,357,Gambling,"585, 399, 344, 140"
+Tiffany,Hughes,2,19,2000,user423@example.com,7264091335,Los Angeles,CA,USA,Nurse,High School,56000,2,643,Rentals,"61, 380"
+Rebecca,Rodriguez,8,10,1992,user424@example.com,4895329642,Los Angeles,CA,USA,Nurse,Bachelor,70000,4,301,Pets,"440, 319, 302, 344, 11"
+Shannon,Thomas,8,17,1987,user425@example.com,9774938584,San Francisco,CA,USA,Project Manager,Master,102000,1,526,Car,"226, 153, 711, 564, 772"
+Crystal,Stone,6,28,1974,user426@example.com,4688550246,Boston,MA,USA,Doctor,Master,180000,3,350,Gambling,"584, 660"
+Thomas,King,10,21,1999,user427@example.com,1751201510,San Francisco,CA,USA,Doctor,Master,180000,0,531,Rentals,"575, 310, 243, 493"
+Marc,Hubbard,11,6,1985,user428@example.com,8771974922,Chicago,IL,USA,Teacher,Master,60000,0,626,Rentals,"330, 107, 226, 218, 753"
+Michael,Huynh,4,29,2000,user429@example.com,3645448209,Chicago,IL,USA,Consultant,Master,90000,1,717,Travel,259
+Lindsay,Silva,11,18,1992,user430@example.com,2806034919,Seattle,WA,USA,Accountant,Bachelor,60000,1,745,Car,"517, 773, 54, 47, 727"
+Jennifer,Fitzgerald,3,24,1980,user431@example.com,1911343282,Miami,FL,USA,Data Scientist,Bachelor,95000,3,809,Parties,
+Thomas,Barber,2,8,1973,user432@example.com,6068606803,Houston,TX,USA,Data Scientist,PhD,133000,0,609,Pets,
+Jessica,Morris,7,9,1987,user433@example.com,4755583398,Los Angeles,CA,USA,Nurse,High School,56000,4,458,Parties,"20, 753"
+Alicia,Adams,10,28,1987,user434@example.com,2322691597,Houston,TX,USA,Consultant,Master,90000,0,793,Car,"490, 419, 690, 62"
+Adrian,Taylor,1,11,1986,user435@example.com,8552217806,Boston,MA,USA,Software Engineer,Master,108000,4,335,Car,
+Marcus,Harris,1,13,1987,user436@example.com,3335385347,Chicago,IL,USA,Engineer,Bachelor,80000,1,615,Car,"160, 739"
+Troy,Christensen,7,18,1992,user437@example.com,4178670976,Chicago,IL,USA,Data Scientist,Bachelor,95000,1,719,Parties,"781, 120, 89, 329, 580"
+Joshua,Johnson,12,21,1976,user438@example.com,4786466601,San Francisco,CA,USA,Doctor,Bachelor,150000,0,811,Car,"357, 610, 267, 617, 323"
+Jennifer,Boyd,5,19,1989,user439@example.com,6778353742,Chicago,IL,USA,Doctor,Master,180000,3,568,Rentals,"541, 649"
+Danielle,Taylor,10,28,1997,user440@example.com,7889178088,Phoenix,AZ,USA,Engineer,Master,96000,4,837,Parties,"738, 332"
+James,Johnson,10,11,1990,user441@example.com,7757566883,Phoenix,AZ,USA,Data Scientist,High School,76000,5,536,Car,521
+Scott,Perez,3,23,1973,user442@example.com,8888138531,Chicago,IL,USA,Doctor,Bachelor,150000,4,555,Rentals,"40, 537, 261, 395, 226, 124"
+Lisa,Wright,1,19,1970,user443@example.com,5855041015,Phoenix,AZ,USA,Accountant,Master,72000,4,681,Travel,"38, 328, 251, 176, 602, 454"
+Mark,Aguilar,8,24,1990,user444@example.com,2686108923,Chicago,IL,USA,Doctor,Bachelor,150000,4,799,Car,"316, 688, 796, 593"
+Danielle,Jensen,7,7,1996,user445@example.com,4315060008,Chicago,IL,USA,Artist,Bachelor,40000,3,532,Parties,40
+Katherine,Howard,3,21,1993,user446@example.com,3593985197,New York,NY,USA,Teacher,High School,40000,1,656,Gambling,"224, 318, 349, 115"
+James,Christian,10,24,1992,user447@example.com,2331437986,Seattle,WA,USA,Engineer,Bachelor,80000,3,480,Car,323
+Michael,Mercer,4,20,1996,user448@example.com,4468710989,Los Angeles,CA,USA,Data Scientist,PhD,133000,3,835,Gambling,40
+Juan,Ware,9,29,1976,user449@example.com,9057577596,Chicago,IL,USA,Software Engineer,PhD,125999,1,689,Rentals,"749, 289"
+Noah,Lucero,1,4,1977,user450@example.com,1401812025,San Francisco,CA,USA,Consultant,Bachelor,75000,0,336,Travel,"216, 147, 336, 168, 92"
+Tonya,Hodges,4,7,1989,user451@example.com,5576281833,Denver,CO,USA,Nurse,Master,84000,1,558,Pets,
+Amanda,Pitts,4,20,1989,user452@example.com,5683561387,Miami,FL,USA,Doctor,PhD,210000,4,685,Travel,"571, 681"
+Antonio,Simpson,1,9,1987,user453@example.com,5064497434,Boston,MA,USA,Data Scientist,PhD,133000,4,476,Car,"363, 557, 345, 693"
+Angela,Goodman,10,25,1994,user454@example.com,9574430587,Phoenix,AZ,USA,Consultant,Bachelor,75000,5,752,Gambling,356
+Andrea,Orozco,1,3,1973,user455@example.com,5786885481,New York,NY,USA,Software Engineer,High School,72000,5,554,Gambling,"667, 422, 700, 7, 133, 747"
+Sheila,Hoffman,3,19,1997,user456@example.com,7041561580,New York,NY,USA,Accountant,High School,48000,2,369,Parties,"761, 31, 535, 426"
+Virginia,Reed,9,15,1978,user457@example.com,4353173698,Phoenix,AZ,USA,Accountant,PhD,84000,5,445,Gambling,672
+James,Jackson,5,7,1970,user458@example.com,4734449099,Los Angeles,CA,USA,Data Scientist,High School,76000,2,743,Parties,"437, 670"
+Alicia,Hernandez,1,22,1989,user459@example.com,6349659861,Denver,CO,USA,Data Scientist,Bachelor,95000,1,503,Rentals,"82, 356, 258, 718, 589, 524"
+Ryan,Scott,3,23,1985,user460@example.com,7285941990,San Francisco,CA,USA,Software Engineer,Bachelor,90000,2,719,Pets,"224, 525, 46, 667, 113, 233"
+Mitchell,Parks,10,22,1996,user461@example.com,6457487723,New York,NY,USA,Data Scientist,Bachelor,95000,1,617,Car,
+Johnny,Owens,7,15,1984,user462@example.com,7654515382,San Francisco,CA,USA,Project Manager,Master,102000,0,712,Parties,"700, 448, 365, 675, 326, 467"
+Caitlin,Patterson,4,18,1998,user463@example.com,6690056098,Houston,TX,USA,Accountant,Bachelor,60000,0,496,Pets,"455, 586, 233, 224, 412"
+Nicholas,Young,10,21,1991,user464@example.com,7862699906,Los Angeles,CA,USA,Accountant,High School,48000,2,742,Gambling,"335, 222, 37"
+Julia,Gomez,9,12,2000,user465@example.com,9719631652,Phoenix,AZ,USA,Project Manager,Bachelor,85000,5,407,Gambling,"278, 196, 484, 242"
+Karen,Mccormick,4,26,1987,user466@example.com,7351719040,Phoenix,AZ,USA,Nurse,High School,56000,5,724,Pets,"731, 192, 17"
+Michael,Davis,3,28,1982,user467@example.com,3817210169,Miami,FL,USA,Software Engineer,High School,72000,2,724,Gambling,"401, 705, 22"
+Daniel,Zamora,9,8,1983,user468@example.com,4204345703,San Francisco,CA,USA,Software Engineer,PhD,125999,1,611,Rentals,120
+Sonya,Bauer,2,26,1994,user469@example.com,8381639595,Boston,MA,USA,Accountant,PhD,84000,0,816,Rentals,"210, 306"
+Valerie,Jones,10,22,1979,user470@example.com,7741124518,Boston,MA,USA,Project Manager,High School,68000,4,420,Pets,"704, 687, 285, 716, 676"
+David,Bennett,5,15,1983,user471@example.com,8346017942,Houston,TX,USA,Doctor,Master,180000,0,337,Parties,"227, 381"
+Gregory,Kirby,3,13,1993,user472@example.com,2487624338,Seattle,WA,USA,Teacher,Bachelor,50000,5,382,Parties,"7, 29, 33"
+Lee,Duncan,7,13,1978,user473@example.com,2420552258,Chicago,IL,USA,Data Scientist,Master,114000,1,384,Pets,"79, 459, 570, 538, 482"
+Melissa,Ross,6,12,1988,user474@example.com,2943011928,Houston,TX,USA,Engineer,PhD,112000,4,374,Parties,"738, 285, 516, 99, 397"
+Jason,Stephens,4,20,1981,user475@example.com,6064344465,Miami,FL,USA,Data Scientist,High School,76000,3,792,Parties,
+Douglas,Hall,12,19,1972,user476@example.com,6645935120,Los Angeles,CA,USA,Consultant,High School,60000,4,647,Rentals,"271, 797, 157, 75, 800, 130"
+Kimberly,Taylor,9,26,1978,user477@example.com,7831595977,Boston,MA,USA,Software Engineer,High School,72000,3,401,Parties,"84, 22, 459, 539, 707, 382"
+Megan,Lawrence,1,3,1971,user478@example.com,4975171451,Los Angeles,CA,USA,Teacher,Master,60000,1,632,Travel,"440, 604, 21"
+Andrea,Massey,9,13,1979,user479@example.com,2803212167,Denver,CO,USA,Artist,Bachelor,40000,4,520,Car,"84, 774, 659, 453, 387, 507"
+John,Shields,11,14,1982,user480@example.com,7269722888,Seattle,WA,USA,Software Engineer,Master,108000,1,522,Gambling,
+Martha,Cobb,7,5,1971,user481@example.com,6661736927,Houston,TX,USA,Consultant,High School,60000,3,555,Travel,527
+Jeffrey,Cox,3,27,1984,user482@example.com,6883861726,Denver,CO,USA,Engineer,Bachelor,80000,2,508,Parties,163
+Julia,Parker,9,25,1977,user483@example.com,5313242182,Houston,TX,USA,Nurse,Master,84000,0,658,Rentals,
+Joseph,Contreras,1,7,1974,user484@example.com,9795099052,Chicago,IL,USA,Engineer,High School,64000,4,533,Pets,
+Larry,Gutierrez,12,19,1999,user485@example.com,8988578477,New York,NY,USA,Accountant,Master,72000,0,831,Parties,"786, 271, 492"
+Thomas,Marshall,7,16,1993,user486@example.com,9192521994,Houston,TX,USA,Consultant,PhD,105000,4,678,Rentals,"584, 60"
+Adam,Turner,3,7,1978,user487@example.com,4670754616,New York,NY,USA,Nurse,PhD,98000,5,361,Car,"657, 605, 309, 520, 591"
+Walter,Lane,11,16,2000,user488@example.com,9303582885,Denver,CO,USA,Consultant,PhD,105000,5,332,Parties,"686, 562"
+Jeffrey,Fisher,3,6,1986,user489@example.com,5742556180,Houston,TX,USA,Data Scientist,Master,114000,5,336,Pets,"199, 387, 349"
+Ashley,Olsen,12,6,1986,user490@example.com,8505825081,Seattle,WA,USA,Data Scientist,Bachelor,95000,0,727,Rentals,"693, 536, 378"
+Brian,Li,1,26,1973,user491@example.com,3978521930,Phoenix,AZ,USA,Engineer,Master,96000,4,694,Rentals,"558, 527"
+Morgan,Johnson,8,30,1989,user492@example.com,2056076675,Seattle,WA,USA,Doctor,High School,120000,4,536,Rentals,
+Andrew,Peters,1,7,1976,user493@example.com,8134135295,Seattle,WA,USA,Engineer,Master,96000,4,695,Car,"206, 455, 273, 236, 740"
+Alexandria,Miller,6,1,1988,user494@example.com,1064925872,New York,NY,USA,Teacher,Bachelor,50000,3,461,Parties,
+Richard,Snyder,6,29,1979,user495@example.com,6616795965,San Francisco,CA,USA,Data Scientist,High School,76000,2,603,Car,"726, 501, 117, 386, 344"
+James,Glass,11,27,1975,user496@example.com,5531834306,Chicago,IL,USA,Consultant,Bachelor,75000,2,523,Gambling,"64, 717"
+Heather,Johnson,12,5,1972,user497@example.com,2952181217,Denver,CO,USA,Engineer,High School,64000,3,385,Gambling,
+Aaron,Hoffman,5,15,1982,user498@example.com,3325422207,New York,NY,USA,Doctor,Master,180000,4,656,Parties,"274, 320, 338, 366"
+Jenna,Forbes,12,14,1992,user499@example.com,4442020793,New York,NY,USA,Teacher,Bachelor,50000,2,507,Car,"607, 166, 544, 11, 301, 729"
+Cathy,Peterson,7,5,1999,user500@example.com,3875467945,Denver,CO,USA,Teacher,Bachelor,50000,3,367,Pets,
+Margaret,Long,4,1,1992,user501@example.com,8011901062,Houston,TX,USA,Data Scientist,Bachelor,95000,0,518,Rentals,"102, 425, 392"
+Cory,Brown,8,24,1999,user502@example.com,7071863022,Los Angeles,CA,USA,Artist,Master,48000,1,384,Rentals,"214, 691"
+Pamela,Bishop,8,12,1996,user503@example.com,1909323937,Seattle,WA,USA,Engineer,PhD,112000,4,623,Parties,
+Julian,Jenkins,7,29,1990,user504@example.com,5873606804,Denver,CO,USA,Accountant,PhD,84000,5,385,Gambling,
+Alejandro,Potts,11,7,1971,user505@example.com,1964005996,Houston,TX,USA,Teacher,Bachelor,50000,2,820,Gambling,"46, 672, 463"
+Robert,Porter,5,4,1985,user506@example.com,2719876964,Chicago,IL,USA,Consultant,Bachelor,75000,4,343,Rentals,"86, 92, 660, 673, 714"
+Hannah,Martinez,3,10,1983,user507@example.com,6429952542,Chicago,IL,USA,Consultant,Master,90000,0,690,Parties,2
+Jose,Rivera,1,15,1991,user508@example.com,2606876426,Boston,MA,USA,Artist,Bachelor,40000,2,362,Car,
+Amy,Austin,8,10,1984,user509@example.com,3217724435,Boston,MA,USA,Consultant,PhD,105000,0,377,Gambling,
+Alexander,Ryan,6,13,1992,user510@example.com,6940457419,Seattle,WA,USA,Engineer,Master,96000,4,807,Car,
+Bianca,Haley,3,19,1992,user511@example.com,9962818026,Phoenix,AZ,USA,Accountant,High School,48000,0,370,Gambling,"589, 116, 666, 103"
+Tammy,Ball,5,10,1987,user512@example.com,3135973347,Miami,FL,USA,Nurse,High School,56000,2,322,Gambling,166
+Nicole,Valdez,1,28,1990,user513@example.com,6152872111,Phoenix,AZ,USA,Project Manager,PhD,118999,1,644,Travel,"90, 686, 122, 143, 106, 428"
+Justin,Smith,10,4,1997,user514@example.com,4232128659,Seattle,WA,USA,Artist,Bachelor,40000,4,513,Gambling,
+Adrian,Kaiser,4,22,1993,user515@example.com,9675537292,Phoenix,AZ,USA,Teacher,High School,40000,2,479,Pets,"317, 635"
+Carol,Miller,5,2,1992,user516@example.com,7147516660,Seattle,WA,USA,Accountant,Bachelor,60000,4,366,Parties,"9, 774, 73, 359, 223"
+Sheila,Taylor,5,15,1992,user517@example.com,8939811903,Denver,CO,USA,Software Engineer,Bachelor,90000,4,462,Parties,
+Kyle,Chapman,3,6,1982,user518@example.com,5660831431,Seattle,WA,USA,Accountant,Master,72000,2,342,Car,716
+Brittany,Pope,3,1,1972,user519@example.com,8332394647,Miami,FL,USA,Consultant,High School,60000,0,426,Gambling,318
+Douglas,Jackson,7,13,1985,user520@example.com,5131920581,Miami,FL,USA,Software Engineer,PhD,125999,4,559,Pets,"318, 111, 251"
+Carl,Lowery,2,24,1985,user521@example.com,4514236081,Phoenix,AZ,USA,Teacher,PhD,70000,2,434,Car,"7, 459, 84, 208, 390, 314"
+Kimberly,Johnson,10,31,1988,user522@example.com,2199902787,Seattle,WA,USA,Nurse,PhD,98000,1,798,Travel,"410, 515, 127, 700, 14"
+Katie,Ford,2,1,1976,user523@example.com,1072030507,Houston,TX,USA,Project Manager,Master,102000,3,469,Car,"12, 87"
+Colleen,Williams,12,17,1971,user524@example.com,8524720433,New York,NY,USA,Teacher,Master,60000,2,766,Car,"537, 301, 243"
+Andre,Willis,4,27,1982,user525@example.com,6304282203,Chicago,IL,USA,Artist,Bachelor,40000,4,621,Gambling,147
+Carla,Lawson,4,15,1982,user526@example.com,1162921101,Los Angeles,CA,USA,Software Engineer,Bachelor,90000,2,663,Travel,"750, 356, 685, 733, 631, 309"
+Melissa,Herrera,7,6,1985,user527@example.com,7352926033,Denver,CO,USA,Project Manager,PhD,118999,4,556,Car,"288, 307, 594, 723, 662, 549"
+David,Ryan,2,4,1970,user528@example.com,3233948375,San Francisco,CA,USA,Software Engineer,Master,108000,2,322,Pets,
+Christopher,Haynes,9,15,1977,user529@example.com,2156737158,Miami,FL,USA,Consultant,High School,60000,0,599,Pets,"643, 714"
+Mark,Lewis,4,23,1983,user530@example.com,1183161047,Boston,MA,USA,Teacher,PhD,70000,3,359,Parties,"35, 445"
+Scott,Alexander,8,21,1971,user531@example.com,4165242573,New York,NY,USA,Teacher,PhD,70000,4,361,Travel,"207, 353, 332, 725"
+Kyle,Ortiz,7,14,1989,user532@example.com,6765782661,Seattle,WA,USA,Consultant,High School,60000,1,529,Travel,"24, 404, 516, 732, 364, 382"
+John,Morris,12,13,1989,user533@example.com,6305494387,Miami,FL,USA,Consultant,High School,60000,4,419,Parties,"152, 562, 689"
+Linda,Moore,10,9,1983,user534@example.com,1226382642,Miami,FL,USA,Artist,Master,48000,2,460,Car,"608, 617"
+Robert,Reed,7,11,1970,user535@example.com,2233232424,Los Angeles,CA,USA,Doctor,High School,120000,0,569,Travel,"250, 117, 512"
+Rose,Munoz,8,2,1983,user536@example.com,4347801404,Denver,CO,USA,Software Engineer,PhD,125999,5,724,Pets,"578, 335, 418"
+Carmen,Hall,5,21,1980,user537@example.com,4774135291,New York,NY,USA,Consultant,PhD,105000,0,544,Pets,"774, 295, 755"
+Richard,Garcia,6,22,1997,user538@example.com,3409381719,Chicago,IL,USA,Nurse,PhD,98000,1,506,Gambling,"186, 246"
+Ronald,Harris,3,31,1977,user539@example.com,2643844085,Chicago,IL,USA,Software Engineer,High School,72000,1,589,Travel,"268, 643, 237, 530"
+Peggy,Hernandez,5,18,1993,user540@example.com,5658879004,Chicago,IL,USA,Consultant,Master,90000,2,577,Car,"737, 794, 520, 100"
+David,Jones,3,5,1973,user541@example.com,3945421907,San Francisco,CA,USA,Artist,Bachelor,40000,5,652,Parties,"599, 298, 526, 334, 2"
+Chad,Watts,1,3,1991,user542@example.com,3232133268,Houston,TX,USA,Engineer,High School,64000,3,608,Parties,"293, 553, 318, 502, 381, 623"
+Susan,Ortiz,9,14,1999,user543@example.com,2194378855,Phoenix,AZ,USA,Nurse,High School,56000,5,472,Car,"504, 231, 84, 130, 743"
+Bridget,Taylor,3,26,1981,user544@example.com,2137827818,Seattle,WA,USA,Accountant,Bachelor,60000,4,388,Rentals,"145, 28, 66, 163, 229"
+Stephanie,Ramirez,3,1,1998,user545@example.com,4568272272,Houston,TX,USA,Doctor,Bachelor,150000,1,493,Gambling,"449, 424, 460, 676"
+Ashley,Adkins,3,27,1997,user546@example.com,4457608445,Los Angeles,CA,USA,Project Manager,PhD,118999,2,533,Parties,"303, 287, 395, 10"
+Mitchell,Schaefer,5,20,1971,user547@example.com,4950599699,Miami,FL,USA,Doctor,PhD,210000,4,519,Travel,"630, 270"
+Kelly,Martin,5,17,1983,user548@example.com,6854999748,San Francisco,CA,USA,Engineer,PhD,112000,3,772,Gambling,605
+Brian,Garrett,11,6,1983,user549@example.com,7055953112,Houston,TX,USA,Consultant,PhD,105000,0,772,Travel,361
+William,Cox,8,9,1979,user550@example.com,7436519081,Houston,TX,USA,Teacher,High School,40000,0,777,Pets,
+Jennifer,Wu,12,5,1985,user551@example.com,1410957118,Boston,MA,USA,Accountant,PhD,84000,1,528,Gambling,"276, 776, 683, 513"
+Douglas,Griffin,11,21,1971,user552@example.com,4484414385,Denver,CO,USA,Accountant,PhD,84000,0,442,Parties,
+Jason,Hill,11,24,1973,user553@example.com,1744285533,Denver,CO,USA,Consultant,Bachelor,75000,0,765,Gambling,"284, 121, 107, 687, 204"
+Alexis,Rodriguez,10,11,1972,user554@example.com,2877627088,San Francisco,CA,USA,Project Manager,Bachelor,85000,0,563,Gambling,"305, 497, 632, 556"
+Jason,Rios,4,30,1986,user555@example.com,3002638584,New York,NY,USA,Consultant,Bachelor,75000,1,845,Gambling,"367, 719, 620"
+Jon,Taylor,4,7,1987,user556@example.com,4592685157,Seattle,WA,USA,Doctor,Master,180000,0,742,Rentals,"334, 642"
+Robert,Dominguez,12,21,1981,user557@example.com,7531518527,Denver,CO,USA,Data Scientist,Bachelor,95000,1,542,Gambling,
+Larry,Williamson,9,30,1995,user558@example.com,9309334333,Seattle,WA,USA,Teacher,Bachelor,50000,3,388,Travel,"293, 20, 282, 797, 1, 119"
+Martha,Henson,1,11,1978,user559@example.com,5273291277,San Francisco,CA,USA,Engineer,Master,96000,2,682,Pets,"198, 485"
+William,Kim,6,11,1989,user560@example.com,7319172358,New York,NY,USA,Teacher,Master,60000,4,486,Car,"59, 161, 691, 206"
+Connor,Wilson,6,16,1974,user561@example.com,4110466435,San Francisco,CA,USA,Project Manager,PhD,118999,2,320,Gambling,"490, 276, 693"
+Andrea,Mckenzie,2,4,1981,user562@example.com,5524304533,Boston,MA,USA,Data Scientist,PhD,133000,1,577,Parties,216
+Jeremy,Scott,12,13,1971,user563@example.com,8561492052,Seattle,WA,USA,Project Manager,High School,68000,1,300,Gambling,"126, 217"
+Kenneth,Gibson,7,11,1995,user564@example.com,4952564983,Chicago,IL,USA,Software Engineer,High School,72000,3,618,Parties,797
+Margaret,Lawrence,11,11,1985,user565@example.com,9857895136,Phoenix,AZ,USA,Doctor,Master,180000,5,829,Travel,
+Christian,Robinson,8,21,1999,user566@example.com,4383526418,Miami,FL,USA,Consultant,Master,90000,4,579,Parties,"223, 184, 495, 427, 178, 428"
+Kyle,Walters,4,6,1988,user567@example.com,5581255646,Los Angeles,CA,USA,Teacher,Bachelor,50000,1,843,Car,"151, 384, 638, 308, 336"
+Brenda,Hansen,11,23,1997,user568@example.com,8837283589,Phoenix,AZ,USA,Data Scientist,High School,76000,4,580,Pets,746
+Alicia,Townsend,7,21,1975,user569@example.com,9882839108,Seattle,WA,USA,Project Manager,Master,102000,5,670,Parties,"375, 8, 341"
+Jessica,Harris,12,9,1983,user570@example.com,5390452123,New York,NY,USA,Project Manager,High School,68000,5,461,Parties,
+Martin,Davis,9,22,1984,user571@example.com,8360542804,Los Angeles,CA,USA,Artist,PhD,56000,2,583,Pets,"776, 669, 352, 358, 517, 495"
+Susan,Brown,7,1,1984,user572@example.com,2067156285,New York,NY,USA,Nurse,Bachelor,70000,4,587,Car,"175, 193, 311, 119, 218"
+Mitchell,Ward,6,9,1979,user573@example.com,7053611020,Denver,CO,USA,Teacher,Master,60000,0,443,Gambling,"414, 114"
+Curtis,Moss,7,8,1975,user574@example.com,3503012841,Houston,TX,USA,Software Engineer,High School,72000,3,538,Parties,145
+Natalie,English,3,3,1970,user575@example.com,3674597010,Los Angeles,CA,USA,Data Scientist,Bachelor,95000,2,781,Pets,648
+Susan,Lang,12,1,1985,user576@example.com,2720201826,Miami,FL,USA,Data Scientist,PhD,133000,1,378,Travel,"744, 588, 345, 1, 147, 287"
+Kimberly,Henderson,7,27,1974,user577@example.com,9567632942,New York,NY,USA,Accountant,High School,48000,3,343,Pets,"53, 304, 69, 361, 602"
+William,Reilly,11,28,1970,user578@example.com,5801046275,San Francisco,CA,USA,Artist,High School,32000,1,545,Travel,"220, 704, 575, 585, 161"
+Patricia,Williams,7,24,1982,user579@example.com,4592789433,New York,NY,USA,Data Scientist,High School,76000,4,781,Car,
+John,Garcia,4,22,1973,user580@example.com,5886671276,Miami,FL,USA,Data Scientist,Master,114000,4,699,Gambling,
+Nicholas,Phillips,9,12,1980,user581@example.com,4560709872,Seattle,WA,USA,Teacher,PhD,70000,2,692,Pets,"585, 757, 589, 159"
+Connor,Hoover,5,29,1976,user582@example.com,2989314538,Houston,TX,USA,Engineer,High School,64000,2,343,Rentals,
+Lori,Payne,3,21,1977,user583@example.com,2218795737,New York,NY,USA,Engineer,High School,64000,4,407,Parties,"324, 610"
+Erin,Parker,7,5,1970,user584@example.com,5473882049,Los Angeles,CA,USA,Consultant,PhD,105000,2,363,Car,"102, 494, 644, 614"
+Laura,Smith,3,6,1999,user585@example.com,2872104850,Chicago,IL,USA,Software Engineer,Bachelor,90000,2,742,Pets,"454, 482"
+Shannon,Brown,5,10,1999,user586@example.com,2469268587,Chicago,IL,USA,Accountant,High School,48000,1,713,Parties,397
+Patrick,Casey,7,17,1996,user587@example.com,3452493599,Denver,CO,USA,Software Engineer,Master,108000,1,537,Pets,
+George,Harvey,4,30,1974,user588@example.com,5344889434,Los Angeles,CA,USA,Data Scientist,PhD,133000,2,732,Travel,"365, 331, 641, 344, 455, 601"
+Jasmine,Brown,10,6,1984,user589@example.com,3121352047,Phoenix,AZ,USA,Consultant,Master,90000,2,447,Pets,"655, 65, 76, 711"
+Crystal,Myers,6,19,1974,user590@example.com,3591819449,San Francisco,CA,USA,Engineer,Bachelor,80000,5,800,Rentals,"605, 473, 417, 305, 736, 497"
+Carrie,Bailey,7,27,1989,user591@example.com,4366470550,New York,NY,USA,Teacher,Master,60000,5,474,Pets,"102, 267"
+Jamie,Soto,2,3,1984,user592@example.com,3460244535,Miami,FL,USA,Project Manager,Master,102000,3,819,Pets,"622, 777"
+Desiree,Davis,3,12,1984,user593@example.com,7125262891,Houston,TX,USA,Artist,Bachelor,40000,1,617,Rentals,"85, 794"
+Angela,Castro,2,18,1992,user594@example.com,7778361525,Seattle,WA,USA,Teacher,Bachelor,50000,0,408,Car,454
+James,Anderson,5,19,1992,user595@example.com,4872575642,Phoenix,AZ,USA,Data Scientist,Master,114000,1,663,Pets,"629, 221, 154"
+Johnny,Zimmerman,3,12,1990,user596@example.com,8424339163,Seattle,WA,USA,Doctor,Master,180000,1,392,Rentals,
+Johnathan,Bowman,2,19,1970,user597@example.com,7889855349,Chicago,IL,USA,Engineer,Master,96000,2,581,Parties,"133, 304, 293"
+David,Diaz,4,15,1989,user598@example.com,9165308825,New York,NY,USA,Software Engineer,Master,108000,3,775,Travel,"300, 740, 783, 43, 343, 326"
+Kelsey,Vasquez,1,27,1973,user599@example.com,9050918447,Denver,CO,USA,Consultant,PhD,105000,3,558,Travel,"498, 364, 427, 21, 407"
+Dennis,Delgado,10,23,1970,user600@example.com,2077810184,Boston,MA,USA,Data Scientist,Master,114000,0,830,Pets,"336, 117"
+Michele,Garcia,6,20,1974,user601@example.com,5061910136,Los Angeles,CA,USA,Doctor,Master,180000,2,752,Car,"399, 793, 715"
+Kim,Bradshaw,4,3,1985,user602@example.com,2247476456,Houston,TX,USA,Accountant,PhD,84000,4,541,Car,"783, 324"
+Roberto,Jacobs,1,26,1972,user603@example.com,8415727066,Chicago,IL,USA,Project Manager,Master,102000,3,313,Parties,"141, 470, 787, 334"
+Samantha,Barber,7,7,1971,user604@example.com,5348661498,Los Angeles,CA,USA,Teacher,PhD,70000,2,685,Pets,"373, 564, 494, 539"
+Andrea,Mccall,8,8,1981,user605@example.com,9224692889,San Francisco,CA,USA,Doctor,High School,120000,4,454,Travel,"751, 156, 291, 648"
+Ashley,Alvarez,7,18,1979,user606@example.com,4312944439,Chicago,IL,USA,Teacher,PhD,70000,5,341,Car,420
+Laura,Baker,1,31,1973,user607@example.com,1928746425,San Francisco,CA,USA,Consultant,Master,90000,5,378,Pets,"658, 2, 589, 644, 90"
+Dana,Clark,6,26,1973,user608@example.com,6087766753,Chicago,IL,USA,Doctor,Bachelor,150000,0,687,Car,
+Debra,Dunn,3,30,1985,user609@example.com,4263697247,Houston,TX,USA,Nurse,Master,84000,3,388,Rentals,"459, 263, 351, 108, 586"
+Melissa,Thompson,8,28,2000,user610@example.com,3987799851,San Francisco,CA,USA,Nurse,Master,84000,1,368,Car,"159, 583, 312, 241, 445, 298"
+Sergio,Taylor,4,19,1978,user611@example.com,2198970563,Chicago,IL,USA,Engineer,High School,64000,2,462,Travel,"84, 452, 775"
+Jeremiah,Simmons,12,3,1975,user612@example.com,8441176027,Seattle,WA,USA,Artist,PhD,56000,1,597,Gambling,"385, 172, 376, 685, 362"
+Belinda,Arellano,12,8,1992,user613@example.com,5759602088,San Francisco,CA,USA,Data Scientist,High School,76000,2,800,Parties,"141, 118, 277, 726, 220, 26"
+Karen,Leonard,3,24,1992,user614@example.com,6787337246,Denver,CO,USA,Software Engineer,High School,72000,5,578,Parties,
+Mark,Schultz,6,21,1994,user615@example.com,9369100861,Seattle,WA,USA,Doctor,Master,180000,4,577,Travel,"10, 378, 633, 637, 682, 584"
+James,Holder,1,25,1976,user616@example.com,4580641124,Seattle,WA,USA,Teacher,Master,60000,1,538,Car,
+Michelle,Griffith,5,16,1982,user617@example.com,7434596533,Boston,MA,USA,Teacher,High School,40000,0,318,Pets,293
+Christopher,Carroll,1,6,1970,user618@example.com,2995469435,Chicago,IL,USA,Artist,PhD,56000,1,592,Car,"50, 664, 531"
+Jessica,Perkins,8,20,1985,user619@example.com,8731848971,New York,NY,USA,Software Engineer,Bachelor,90000,2,553,Travel,"60, 167, 202"
+Sara,Reed,9,13,1985,user620@example.com,4150396502,Chicago,IL,USA,Teacher,Master,60000,5,597,Parties,
+Lindsay,Hart,12,4,1993,user621@example.com,5657962754,Miami,FL,USA,Software Engineer,PhD,125999,4,532,Car,676
+Scott,Watson,3,17,1990,user622@example.com,2000785732,New York,NY,USA,Data Scientist,PhD,133000,4,573,Parties,439
+Matthew,Patel,2,7,1991,user623@example.com,3348590341,Chicago,IL,USA,Doctor,Master,180000,3,839,Pets,581
+John,Hill,9,18,2000,user624@example.com,9780653505,Boston,MA,USA,Artist,Master,48000,3,848,Parties,"561, 483, 108, 226, 673, 631"
+Karen,Taylor,6,12,1999,user625@example.com,1654596872,Los Angeles,CA,USA,Consultant,Bachelor,75000,4,590,Parties,"662, 432, 655, 419"
+Victoria,Rivera,1,18,1975,user626@example.com,1927790098,Chicago,IL,USA,Engineer,Master,96000,5,340,Gambling,"455, 160, 523"
+Erika,Williams,8,15,1994,user627@example.com,1882848526,Seattle,WA,USA,Software Engineer,PhD,125999,0,711,Gambling,590
+Joseph,Richmond,11,4,1974,user628@example.com,6308340081,Seattle,WA,USA,Consultant,PhD,105000,1,699,Rentals,"509, 441, 254, 770"
+Joanne,Hansen,12,31,1972,user629@example.com,9776838216,Los Angeles,CA,USA,Doctor,PhD,210000,5,302,Gambling,"263, 597"
+Virginia,White,4,1,1981,user630@example.com,7192839608,Chicago,IL,USA,Nurse,High School,56000,0,521,Parties,554
+Rachel,Sanders,7,31,1997,user631@example.com,4902881494,Boston,MA,USA,Software Engineer,High School,72000,1,725,Travel,"637, 167, 753, 459, 280"
+Scott,Yang,9,27,1981,user632@example.com,1140336713,San Francisco,CA,USA,Project Manager,High School,68000,4,637,Parties,"302, 531, 580"
+Jennifer,Gonzalez,6,30,1971,user633@example.com,6509065028,Seattle,WA,USA,Engineer,PhD,112000,3,378,Travel,102
+Ashley,Bailey,9,29,1994,user634@example.com,5241259646,New York,NY,USA,Project Manager,Bachelor,85000,4,592,Travel,288
+Amber,Williams,3,27,1993,user635@example.com,1396911484,Miami,FL,USA,Doctor,Master,180000,4,745,Gambling,"621, 36, 744, 741, 353, 676"
+Christina,Huber,1,30,1997,user636@example.com,2823834682,Denver,CO,USA,Accountant,Master,72000,5,807,Car,"73, 648"
+Marissa,Fisher,2,23,1997,user637@example.com,7794984600,San Francisco,CA,USA,Engineer,High School,64000,5,406,Pets,
+Abigail,Jones,10,21,1993,user638@example.com,4550985313,New York,NY,USA,Data Scientist,High School,76000,5,366,Gambling,"70, 425"
+Wanda,Fletcher,9,21,1992,user639@example.com,2441724179,Denver,CO,USA,Data Scientist,High School,76000,4,638,Gambling,"708, 781, 561, 642, 517, 428"
+Kari,Pacheco,11,23,1991,user640@example.com,7918364255,Denver,CO,USA,Data Scientist,PhD,133000,1,476,Car,"160, 149"
+Clifford,Miller,7,19,1984,user641@example.com,6326856656,Phoenix,AZ,USA,Project Manager,PhD,118999,5,605,Pets,"712, 562, 67, 381, 58"
+Erica,Weaver,6,8,1988,user642@example.com,4274879811,Phoenix,AZ,USA,Accountant,PhD,84000,4,569,Parties,"342, 130"
+Gary,Spencer,5,28,1998,user643@example.com,2973933512,Seattle,WA,USA,Consultant,Master,90000,5,517,Rentals,"172, 770, 614, 209, 354, 471"
+Harold,Fuller,3,24,1993,user644@example.com,8546101938,New York,NY,USA,Teacher,PhD,70000,3,648,Rentals,"116, 264, 662, 442, 548"
+Adriana,Duncan,9,3,1974,user645@example.com,2327195954,Chicago,IL,USA,Doctor,High School,120000,0,849,Parties,"477, 287, 303, 311"
+Phillip,Harris,4,6,1972,user646@example.com,4595537830,Denver,CO,USA,Engineer,PhD,112000,3,642,Gambling,446
+Albert,Wilson,8,30,1999,user647@example.com,4285077243,San Francisco,CA,USA,Doctor,Master,180000,4,585,Pets,"633, 55, 12, 657, 400"
+Daniel,Landry,2,21,2000,user648@example.com,9609924177,Houston,TX,USA,Project Manager,Bachelor,85000,0,318,Gambling,"648, 515, 656"
+Brian,Carroll,7,29,1988,user649@example.com,5740060331,Denver,CO,USA,Teacher,Bachelor,50000,5,617,Travel,"237, 279, 348, 627, 104"
+Tammie,Johnston,4,3,1980,user650@example.com,5647035967,Denver,CO,USA,Project Manager,PhD,118999,5,371,Gambling,"517, 248, 364, 321, 633"
+Robert,Stewart,10,16,1985,user651@example.com,2968437185,Chicago,IL,USA,Project Manager,Bachelor,85000,0,662,Gambling,"149, 84, 406, 456, 743"
+Samantha,Harrison,10,30,1994,user652@example.com,6924798247,Los Angeles,CA,USA,Data Scientist,PhD,133000,4,772,Parties,
+Michael,Gonzales,5,23,1978,user653@example.com,7152119409,Chicago,IL,USA,Data Scientist,Master,114000,2,784,Parties,"784, 460, 550, 500"
+Lindsey,Smith,3,8,1986,user654@example.com,6315252775,Boston,MA,USA,Nurse,Master,84000,2,781,Parties,509
+Michelle,Cameron,4,27,1970,user655@example.com,6851136892,Denver,CO,USA,Doctor,Bachelor,150000,1,540,Rentals,"481, 663, 114, 749, 578"
+Richard,Camacho,3,17,1997,user656@example.com,8403799510,New York,NY,USA,Engineer,PhD,112000,0,333,Travel,
+Jose,Richardson,8,28,1991,user657@example.com,6242941704,Miami,FL,USA,Accountant,Bachelor,60000,3,441,Parties,"770, 761, 449, 180"
+Jason,Hogan,3,11,1985,user658@example.com,6399426918,San Francisco,CA,USA,Software Engineer,PhD,125999,2,673,Pets,"407, 666, 196, 466, 311"
+Robert,Maxwell,6,6,1991,user659@example.com,2071487092,Los Angeles,CA,USA,Accountant,Master,72000,5,589,Rentals,"419, 406, 143, 342, 316"
+Michael,Howard,11,18,1987,user660@example.com,5231397336,Miami,FL,USA,Doctor,Master,180000,1,546,Car,"244, 490, 12, 239"
+Angela,Edwards,12,26,1976,user661@example.com,2469094125,San Francisco,CA,USA,Teacher,Bachelor,50000,4,496,Pets,
+James,Gillespie,6,19,1985,user662@example.com,5073116326,Miami,FL,USA,Artist,PhD,56000,1,617,Pets,678
+Hannah,Wade,7,20,1984,user663@example.com,8872669714,New York,NY,USA,Doctor,Master,180000,2,381,Parties,429
+Ian,Williams,4,6,1978,user664@example.com,7773027445,Houston,TX,USA,Consultant,Bachelor,75000,0,685,Car,"158, 216"
+Karen,Wells,7,15,1977,user665@example.com,5529557605,Boston,MA,USA,Nurse,High School,56000,4,816,Car,670
+David,Gonzalez,5,10,1984,user666@example.com,4261411694,New York,NY,USA,Project Manager,Bachelor,85000,4,303,Rentals,"134, 67, 7, 526, 73"
+Matthew,Delgado,1,31,1988,user667@example.com,1655849023,Seattle,WA,USA,Consultant,Bachelor,75000,4,545,Car,"405, 675, 578, 130, 466, 206"
+Angela,Hodges,4,14,1984,user668@example.com,5184436567,San Francisco,CA,USA,Teacher,High School,40000,2,761,Travel,"768, 266, 537"
+Jose,Chen,5,3,1989,user669@example.com,1175514421,Chicago,IL,USA,Software Engineer,PhD,125999,0,422,Parties,793
+Christine,Hernandez,11,12,1974,user670@example.com,6595029190,Houston,TX,USA,Project Manager,High School,68000,0,605,Car,"289, 164, 95, 782"
+Tracey,Burns,3,17,1981,user671@example.com,7489796791,Phoenix,AZ,USA,Software Engineer,Master,108000,0,479,Rentals,
+Justin,Perez,3,4,1987,user672@example.com,9026716139,Denver,CO,USA,Nurse,Master,84000,4,769,Travel,"336, 238, 381, 436, 483"
+Douglas,Howell,12,29,1989,user673@example.com,8202010996,San Francisco,CA,USA,Engineer,High School,64000,0,705,Gambling,
+Kenneth,Burgess,6,17,1994,user674@example.com,5701743591,Miami,FL,USA,Project Manager,High School,68000,0,367,Gambling,"25, 653, 117, 482, 392"
+Hannah,Pacheco,3,5,1972,user675@example.com,6117782507,Houston,TX,USA,Teacher,High School,40000,2,402,Travel,"537, 79, 580, 173"
+Tina,Clements,2,20,1980,user676@example.com,4895791313,Seattle,WA,USA,Teacher,PhD,70000,1,505,Rentals,"12, 800, 128"
+Shelly,Perez,10,2,1986,user677@example.com,8450601483,Los Angeles,CA,USA,Data Scientist,PhD,133000,5,331,Travel,"653, 543, 532"
+Ariana,Gray,3,18,1984,user678@example.com,8421062327,Miami,FL,USA,Accountant,PhD,84000,2,464,Parties,447
+Ryan,Gill,10,14,1970,user679@example.com,4783957755,Phoenix,AZ,USA,Accountant,Master,72000,3,493,Parties,"672, 43, 254, 130, 60"
+Anthony,Curtis,10,4,1990,user680@example.com,6854960692,Phoenix,AZ,USA,Data Scientist,Master,114000,3,369,Gambling,"467, 287, 517, 467, 778, 345"
+Wendy,Massey,3,1,1996,user681@example.com,2205139672,Boston,MA,USA,Nurse,Bachelor,70000,0,738,Car,382
+Shannon,Norris,3,2,1979,user682@example.com,7344092803,New York,NY,USA,Engineer,Master,96000,0,331,Rentals,"690, 253"
+Alex,Allen,2,17,1987,user683@example.com,9713076131,New York,NY,USA,Data Scientist,Bachelor,95000,5,831,Gambling,"56, 463, 457, 83, 99, 149"
+Kelly,Flores,3,30,1995,user684@example.com,9486530091,San Francisco,CA,USA,Project Manager,Bachelor,85000,0,385,Car,
+Samantha,Guerra,3,28,1979,user685@example.com,9166856416,Chicago,IL,USA,Accountant,Bachelor,60000,0,443,Car,"190, 494, 263"
+Helen,Young,4,12,1995,user686@example.com,4189780795,Denver,CO,USA,Consultant,PhD,105000,3,443,Parties,"609, 260, 772"
+Brett,Flores,1,8,1978,user687@example.com,6860909267,Miami,FL,USA,Software Engineer,PhD,125999,5,444,Pets,"552, 785, 101, 359, 380, 221"
+Morgan,Sanchez,3,19,1984,user688@example.com,9005662085,Phoenix,AZ,USA,Artist,Master,48000,3,652,Pets,"420, 124, 422"
+Matthew,Jordan,6,22,1980,user689@example.com,2846764859,Miami,FL,USA,Doctor,Master,180000,3,644,Travel,"690, 63, 485, 628, 703, 574"
+Albert,Butler,11,23,1992,user690@example.com,1602048000,Houston,TX,USA,Project Manager,PhD,118999,3,678,Parties,"483, 519, 155, 92"
+Gabriel,Singh,3,2,1986,user691@example.com,1803290037,Miami,FL,USA,Accountant,PhD,84000,2,654,Car,"526, 455, 741, 598, 645"
+Richard,Payne,4,13,2000,user692@example.com,1590139420,Miami,FL,USA,Data Scientist,Master,114000,0,407,Rentals,"183, 386, 574, 731, 405"
+Doris,Fields,5,1,1990,user693@example.com,6215615199,Chicago,IL,USA,Engineer,PhD,112000,0,319,Pets,"742, 591, 661, 650, 471"
+Jill,Brady,4,6,1991,user694@example.com,2844403106,Chicago,IL,USA,Software Engineer,High School,72000,2,534,Car,423
+Danielle,Mays,4,27,1986,user695@example.com,5275853330,Phoenix,AZ,USA,Software Engineer,PhD,125999,4,394,Pets,"65, 13, 213, 242"
+Holly,Boyd,4,22,1976,user696@example.com,9583056236,Boston,MA,USA,Project Manager,High School,68000,1,763,Pets,"213, 693, 338, 173"
+Tiffany,Burton,12,19,1991,user697@example.com,8720642038,Phoenix,AZ,USA,Artist,Master,48000,3,773,Pets,"465, 497, 700"
+Matthew,Paul,12,24,1978,user698@example.com,2138830734,Boston,MA,USA,Project Manager,High School,68000,3,701,Rentals,"703, 308"
+Darren,Moore,4,10,1993,user699@example.com,6431176502,San Francisco,CA,USA,Software Engineer,Master,108000,4,511,Parties,"629, 794, 510, 708, 546, 564"
+Leslie,Bradshaw,8,3,1978,user700@example.com,8661924921,Phoenix,AZ,USA,Consultant,High School,60000,1,796,Rentals,"594, 744, 227"
+Anna,Fleming,6,12,1994,user701@example.com,3870467551,San Francisco,CA,USA,Engineer,High School,64000,5,470,Gambling,
+Arthur,Garcia,1,24,1988,user702@example.com,8355057523,Chicago,IL,USA,Nurse,Master,84000,0,573,Car,"436, 422, 554, 21"
+David,Watts,4,25,1983,user703@example.com,5762815453,Chicago,IL,USA,Accountant,PhD,84000,4,684,Parties,397
+Regina,Butler,1,23,1970,user704@example.com,8939145792,Los Angeles,CA,USA,Teacher,High School,40000,5,783,Parties,
+Shawn,Williams,9,15,1989,user705@example.com,5335415068,Los Angeles,CA,USA,Project Manager,Bachelor,85000,1,758,Parties,
+Austin,Watson,10,12,1985,user706@example.com,1811066957,Houston,TX,USA,Teacher,High School,40000,4,498,Parties,
+Carl,Moyer,8,29,1995,user707@example.com,2336394536,Houston,TX,USA,Teacher,Master,60000,4,348,Rentals,
+Mitchell,Ramirez,3,14,1995,user708@example.com,2096659102,Chicago,IL,USA,Engineer,PhD,112000,4,346,Parties,
+William,Lamb,3,8,1995,user709@example.com,1751622299,Miami,FL,USA,Software Engineer,PhD,125999,0,477,Travel,
+Larry,Martinez,8,12,2000,user710@example.com,8190888279,New York,NY,USA,Project Manager,High School,68000,1,719,Car,572
+Melissa,Robertson,9,15,1977,user711@example.com,7707698254,San Francisco,CA,USA,Engineer,High School,64000,5,401,Parties,"97, 10, 242, 232"
+Melissa,Lopez,9,15,1986,user712@example.com,8776677341,Houston,TX,USA,Engineer,Master,96000,1,349,Car,"284, 715, 759, 776"
+Alexandra,Smith,5,10,1999,user713@example.com,3712235009,San Francisco,CA,USA,Doctor,High School,120000,3,520,Travel,"726, 200"
+Jessica,Mcclain,4,17,1995,user714@example.com,2488765484,San Francisco,CA,USA,Nurse,Master,84000,2,845,Travel,
+Rebecca,Lindsey,1,8,1992,user715@example.com,7062760814,Seattle,WA,USA,Project Manager,Bachelor,85000,0,432,Car,"173, 467, 581, 416, 449, 87"
+Edwin,Miller,9,18,1985,user716@example.com,3032859883,Los Angeles,CA,USA,Software Engineer,Master,108000,1,446,Pets,"8, 200, 505, 87"
+Amanda,Johnson,4,10,1981,user717@example.com,2418954868,Boston,MA,USA,Software Engineer,Master,108000,1,612,Gambling,"385, 621"
+Jessica,Lopez,1,24,1992,user718@example.com,6170399723,Chicago,IL,USA,Project Manager,Bachelor,85000,1,611,Pets,"408, 483"
+Katrina,Roach,6,11,1987,user719@example.com,5204464373,Boston,MA,USA,Teacher,Master,60000,2,812,Pets,
+Janice,Robinson,11,8,1985,user720@example.com,9120574866,Los Angeles,CA,USA,Nurse,High School,56000,0,701,Rentals,"148, 277, 232, 366"
+Michelle,Smith,3,21,2000,user721@example.com,8578296172,Miami,FL,USA,Data Scientist,High School,76000,3,615,Pets,"651, 436, 399"
+Lisa,Vance,9,1,1995,user722@example.com,7708347488,Phoenix,AZ,USA,Consultant,Bachelor,75000,5,619,Parties,"391, 499"
+Jessica,Johnson,2,19,1983,user723@example.com,9428458611,Seattle,WA,USA,Consultant,Bachelor,75000,3,836,Rentals,"563, 491, 442"
+Michael,Haas,7,20,1972,user724@example.com,1588885196,Miami,FL,USA,Nurse,Bachelor,70000,5,372,Rentals,"773, 350, 352, 520"
+Michael,Sandoval,3,23,1977,user725@example.com,4205919648,Miami,FL,USA,Consultant,High School,60000,5,350,Travel,550
+Mary,Barber,5,21,1979,user726@example.com,2469640675,Denver,CO,USA,Consultant,High School,60000,4,371,Pets,"368, 220, 337, 223, 648, 768"
+Jennifer,Mclean,2,2,1974,user727@example.com,6466798842,Seattle,WA,USA,Consultant,Master,90000,5,643,Travel,
+Luke,Lopez,3,18,1986,user728@example.com,6236438378,Boston,MA,USA,Project Manager,High School,68000,2,652,Car,
+Jerry,Howell,10,13,1991,user729@example.com,6424934525,Chicago,IL,USA,Project Manager,Bachelor,85000,1,661,Gambling,463
+Daniel,Ramirez,12,16,1997,user730@example.com,3250086315,Houston,TX,USA,Data Scientist,High School,76000,2,630,Rentals,561
+Carrie,Watkins,4,13,1990,user731@example.com,4995488114,Los Angeles,CA,USA,Accountant,Master,72000,5,654,Car,"382, 590, 617"
+Raymond,Williams,6,1,1973,user732@example.com,6331946148,New York,NY,USA,Consultant,High School,60000,1,609,Car,
+Deborah,Joyce,4,28,1974,user733@example.com,1358986564,Phoenix,AZ,USA,Teacher,Bachelor,50000,4,606,Parties,
+Jocelyn,Morales,5,27,1988,user734@example.com,7499504048,San Francisco,CA,USA,Project Manager,Master,102000,2,562,Gambling,119
+Brian,Garcia,8,15,1991,user735@example.com,5017582892,Chicago,IL,USA,Consultant,High School,60000,1,674,Car,"767, 370, 778, 149, 676"
+Michelle,Peterson,4,20,1976,user736@example.com,1815537690,Seattle,WA,USA,Doctor,High School,120000,3,306,Car,"488, 770, 374"
+Adam,Carpenter,10,29,1995,user737@example.com,4223583395,Los Angeles,CA,USA,Teacher,PhD,70000,4,525,Gambling,"693, 160, 351, 288"
+Daniel,Kane,9,11,1996,user738@example.com,8912273710,San Francisco,CA,USA,Nurse,High School,56000,5,670,Gambling,"226, 523, 522"
+Paul,Barton,2,18,1980,user739@example.com,7397700430,Miami,FL,USA,Engineer,High School,64000,4,326,Car,"273, 402, 183, 665, 488, 124"
+Charles,Clark,5,27,1995,user740@example.com,2952889624,Phoenix,AZ,USA,Data Scientist,High School,76000,3,479,Gambling,626
+Lucas,Daugherty,3,23,1974,user741@example.com,4716367700,Miami,FL,USA,Data Scientist,Master,114000,1,453,Car,"414, 725, 172, 288, 435"
+Tammy,Trevino,3,7,1992,user742@example.com,2844644234,Seattle,WA,USA,Teacher,Master,60000,1,340,Car,"113, 122, 544, 222, 631"
+David,Campbell,6,22,2000,user743@example.com,6999213555,Houston,TX,USA,Software Engineer,PhD,125999,2,565,Parties,"497, 780, 233, 530, 149, 397"
+Paige,Werner,1,17,1994,user744@example.com,1341612968,Denver,CO,USA,Nurse,PhD,98000,0,346,Pets,"661, 638, 302, 360, 238"
+Carlos,Sandoval,1,24,1977,user745@example.com,4402704023,Chicago,IL,USA,Artist,High School,32000,3,748,Car,"663, 236, 736, 203, 256, 598"
+Krista,Mcbride,4,11,1975,user746@example.com,6098214079,Los Angeles,CA,USA,Teacher,PhD,70000,0,428,Travel,"235, 345, 534, 797, 781"
+William,Morris,9,22,1983,user747@example.com,7330823580,Denver,CO,USA,Consultant,Bachelor,75000,0,605,Rentals,770
+Ryan,Smith,5,4,1993,user748@example.com,2778143167,Los Angeles,CA,USA,Teacher,PhD,70000,2,581,Pets,"213, 463, 436, 283"
+Ashley,Sanchez,5,10,1998,user749@example.com,9291303409,Los Angeles,CA,USA,Artist,High School,32000,5,786,Pets,607
+Thomas,Nelson,12,19,1981,user750@example.com,9779819049,New York,NY,USA,Project Manager,Master,102000,5,457,Pets,"407, 88, 44, 461, 278, 683"
+Michael,Perkins,11,23,2000,user751@example.com,9216158051,Denver,CO,USA,Software Engineer,Master,108000,2,754,Parties,"701, 353, 696, 515"
+Danielle,Kent,9,30,1976,user752@example.com,9568255584,Chicago,IL,USA,Teacher,High School,40000,1,558,Car,"630, 19, 23, 413, 30, 108"
+Gabrielle,Ball,8,22,1990,user753@example.com,5015144957,Houston,TX,USA,Teacher,Master,60000,4,414,Parties,"281, 128, 229, 111, 136, 362"
+Benjamin,Rodriguez,11,18,1984,user754@example.com,4089837742,San Francisco,CA,USA,Engineer,Master,96000,5,523,Car,656
+Jessica,Rodriguez,1,13,1986,user755@example.com,8451131687,Los Angeles,CA,USA,Doctor,Master,180000,0,430,Parties,
+Samantha,Elliott,12,20,1981,user756@example.com,3075653649,Miami,FL,USA,Artist,High School,32000,4,812,Parties,"261, 515, 449"
+Carol,Phillips,8,8,1993,user757@example.com,9529546706,Boston,MA,USA,Nurse,Bachelor,70000,2,811,Rentals,"104, 483, 224"
+Gabrielle,Curtis,8,20,1988,user758@example.com,3380029841,New York,NY,USA,Project Manager,PhD,118999,1,468,Travel,491
+Danielle,Richardson,10,14,1977,user759@example.com,4722488280,Chicago,IL,USA,Artist,Bachelor,40000,4,314,Parties,
+Thomas,Holland,1,10,1977,user760@example.com,3521827414,Boston,MA,USA,Artist,Master,48000,3,485,Rentals,405
+Richard,Elliott,10,3,1980,user761@example.com,1787116402,San Francisco,CA,USA,Accountant,PhD,84000,4,487,Gambling,"231, 731, 66, 112, 13"
+Jerry,Rose,1,23,1997,user762@example.com,6199024242,Chicago,IL,USA,Engineer,Bachelor,80000,1,761,Travel,
+Felicia,Bennett,4,11,1976,user763@example.com,5872024692,Chicago,IL,USA,Nurse,High School,56000,1,643,Parties,"598, 234, 602"
+Shannon,Rodriguez,4,2,1995,user764@example.com,5773779237,Los Angeles,CA,USA,Data Scientist,High School,76000,3,749,Pets,566
+Jeremy,Morgan,2,22,1980,user765@example.com,3090679213,Phoenix,AZ,USA,Software Engineer,Master,108000,2,699,Gambling,"209, 14, 633"
+Amber,Vasquez,3,4,1970,user766@example.com,8654713520,Boston,MA,USA,Consultant,PhD,105000,5,476,Gambling,437
+Steven,White,9,14,1984,user767@example.com,2818349019,Boston,MA,USA,Nurse,High School,56000,1,729,Rentals,
+Natalie,Hicks,6,14,1994,user768@example.com,6039260501,Chicago,IL,USA,Doctor,High School,120000,1,455,Gambling,"587, 755, 735"
+John,Jones,5,16,1979,user769@example.com,3073663454,Chicago,IL,USA,Software Engineer,Bachelor,90000,5,401,Travel,"70, 211, 101, 698, 132, 623"
+Jermaine,Wilson,4,12,1988,user770@example.com,7005839653,Houston,TX,USA,Doctor,High School,120000,3,428,Parties,"132, 20, 536, 227"
+Sara,Smith,2,25,1972,user771@example.com,7768724420,Chicago,IL,USA,Artist,High School,32000,3,443,Parties,742
+Kathleen,Holland,1,17,1998,user772@example.com,9213738461,Seattle,WA,USA,Doctor,PhD,210000,0,780,Pets,"405, 202, 38, 772"
+Alexander,Quinn,7,12,1975,user773@example.com,8078270236,Houston,TX,USA,Engineer,Master,96000,4,403,Rentals,"57, 20, 273"
+Jose,Gonzalez,12,8,1996,user774@example.com,1655470072,Los Angeles,CA,USA,Software Engineer,Bachelor,90000,5,504,Pets,"583, 516, 221, 526, 515, 728"
+Kimberly,Thomas,1,24,1977,user775@example.com,9440402328,Houston,TX,USA,Engineer,PhD,112000,0,439,Gambling,"336, 698, 55, 500"
+John,Ochoa,1,26,1987,user776@example.com,8365896945,Los Angeles,CA,USA,Project Manager,High School,68000,2,815,Pets,"766, 536, 162"
+Emily,Kelley,5,23,1983,user777@example.com,1406808355,Boston,MA,USA,Engineer,High School,64000,1,484,Travel,"594, 159, 188, 60, 319"
+Melissa,Escobar,4,29,1997,user778@example.com,4397514885,Los Angeles,CA,USA,Artist,Bachelor,40000,3,501,Parties,"211, 406, 664, 109, 76"
+Raymond,Johnston,6,12,1989,user779@example.com,1795000176,Houston,TX,USA,Teacher,Master,60000,4,694,Gambling,"314, 117, 704, 19, 432"
+Yesenia,Vincent,3,7,1980,user780@example.com,8933047736,Phoenix,AZ,USA,Project Manager,Bachelor,85000,1,742,Pets,"740, 350, 183, 113"
+Daniel,Reese,1,8,1991,user781@example.com,7413687896,Boston,MA,USA,Project Manager,High School,68000,1,332,Rentals,"481, 146, 628, 113, 763, 476"
+Jacqueline,Hensley,4,27,1980,user782@example.com,5738369459,Miami,FL,USA,Doctor,Bachelor,150000,1,828,Travel,"303, 118"
+Melanie,Franklin,5,24,1995,user783@example.com,8383562472,Phoenix,AZ,USA,Accountant,High School,48000,1,462,Travel,"161, 401, 198, 260"
+Aaron,Rios,7,31,1991,user784@example.com,7387152509,San Francisco,CA,USA,Consultant,Bachelor,75000,2,540,Pets,"752, 47, 399"
+Ronald,Schneider,3,25,1988,user785@example.com,7293740239,Miami,FL,USA,Project Manager,High School,68000,2,666,Parties,"559, 78, 124, 75, 137"
+Travis,Fleming,9,10,1982,user786@example.com,5689499556,San Francisco,CA,USA,Data Scientist,PhD,133000,5,694,Pets,400
+Brandon,Anderson,4,28,1999,user787@example.com,5821994376,Los Angeles,CA,USA,Artist,Master,48000,1,316,Gambling,"505, 500, 573, 138"
+Jonathan,Marshall,2,8,1989,user788@example.com,6651695355,New York,NY,USA,Software Engineer,Master,108000,5,723,Pets,771
+Andrea,Hampton,3,6,1983,user789@example.com,6663924577,Denver,CO,USA,Project Manager,PhD,118999,5,718,Travel,"619, 625, 254, 630"
+Jill,Hernandez,10,31,1974,user790@example.com,1077221081,Boston,MA,USA,Artist,High School,32000,1,402,Pets,"710, 563, 757, 426"
+Lauren,Campbell,12,6,1984,user791@example.com,7669101272,Seattle,WA,USA,Teacher,High School,40000,5,699,Parties,"302, 581"
+Ashley,Robinson,1,13,1993,user792@example.com,5137123362,Phoenix,AZ,USA,Artist,Master,48000,1,688,Rentals,"49, 74, 704, 261"
+Joel,Cook,2,2,1980,user793@example.com,5743175991,Miami,FL,USA,Doctor,High School,120000,4,328,Car,"582, 602, 260"
+Thomas,Harper,6,7,1989,user794@example.com,6178635879,Denver,CO,USA,Nurse,Bachelor,70000,1,558,Pets,"743, 295, 641, 792, 313"
+Ralph,Bennett,9,22,1998,user795@example.com,9957355370,Denver,CO,USA,Consultant,High School,60000,3,336,Parties,"182, 686, 364"
+William,Welch,8,1,1994,user796@example.com,8487359435,Los Angeles,CA,USA,Engineer,PhD,112000,3,684,Parties,"569, 543, 596"
+Michael,Watson,7,19,1991,user797@example.com,5119313806,Seattle,WA,USA,Teacher,Bachelor,50000,1,662,Rentals,
+Jeremiah,Horton,12,13,1989,user798@example.com,2938395903,Chicago,IL,USA,Project Manager,Master,102000,3,322,Travel,"725, 408, 618"
+Annette,Moore,11,21,1972,user799@example.com,8693590969,Boston,MA,USA,Data Scientist,PhD,133000,5,447,Parties,"342, 220, 163, 220, 270"
+Robert,Miller,5,29,1981,user800@example.com,7676432280,Houston,TX,USA,Engineer,Bachelor,80000,3,329,Parties,400
+Steven,Young,7,6,1976,user801@example.com,7798466524,San Francisco,CA,USA,Doctor,High School,120000,4,729,Parties,"618, 729, 205, 582, 556"
+Judith,Hahn,10,17,1994,user802@example.com,4485353401,Los Angeles,CA,USA,Software Engineer,High School,72000,2,771,Parties,
+Ruth,Thompson,11,14,1997,user803@example.com,6791123341,Los Angeles,CA,USA,Teacher,PhD,70000,5,743,Gambling,"228, 696, 619, 596"
+Loretta,Bailey,12,18,1996,user804@example.com,3488162512,Seattle,WA,USA,Artist,Master,48000,5,699,Gambling,250
+Annette,Griffin,3,25,1995,user805@example.com,2309961678,San Francisco,CA,USA,Artist,PhD,56000,3,727,Travel,"441, 533"
+Eric,Marshall,2,8,1993,user806@example.com,9440961954,Chicago,IL,USA,Doctor,Master,180000,0,357,Pets,"690, 519, 70"
+Susan,Sanders,1,17,1982,user807@example.com,1547430964,Chicago,IL,USA,Accountant,PhD,84000,1,625,Parties,"399, 672, 760, 203, 148, 472"
+Sonya,Cherry,6,1,1988,user808@example.com,5928073622,Phoenix,AZ,USA,Software Engineer,High School,72000,4,535,Rentals,"199, 426, 666, 492, 142, 313"
+Adam,Arellano,5,9,2000,user809@example.com,3248212738,Houston,TX,USA,Project Manager,Master,102000,2,507,Pets,"314, 21, 82, 581"
+Joel,May,2,24,1983,user810@example.com,2594323628,Denver,CO,USA,Consultant,High School,60000,3,387,Rentals,"599, 730"
+Stephanie,Miller,12,9,1985,user811@example.com,7910798288,Phoenix,AZ,USA,Engineer,Bachelor,80000,4,623,Pets,"305, 371, 384, 445"
+Todd,Garcia,2,24,1970,user812@example.com,7532110010,Boston,MA,USA,Consultant,High School,60000,3,765,Travel,
+Melissa,Hill,11,2,1997,user813@example.com,2513652665,New York,NY,USA,Artist,Bachelor,40000,4,596,Parties,
+Mary,Rose,6,9,1982,user814@example.com,7643020672,Denver,CO,USA,Software Engineer,PhD,125999,1,575,Parties,629
+Cindy,Bailey,1,31,1979,user815@example.com,1745759123,Boston,MA,USA,Engineer,Bachelor,80000,3,665,Car,"490, 327, 598"
+Steven,Reyes,1,29,1982,user816@example.com,1456404645,Los Angeles,CA,USA,Data Scientist,High School,76000,3,496,Rentals,"289, 593, 664, 573, 573, 354"
+Meghan,Griffin,8,23,1975,user817@example.com,6929722695,Phoenix,AZ,USA,Project Manager,High School,68000,0,518,Pets,"43, 681, 423"
+Joshua,Hays,8,27,1990,user818@example.com,3171300426,Seattle,WA,USA,Data Scientist,Master,114000,5,708,Pets,"177, 529, 610, 494, 198"
+Melissa,Ramos,1,17,1986,user819@example.com,2503082739,Miami,FL,USA,Accountant,Bachelor,60000,0,627,Gambling,577
+Tonya,Coffey,7,19,1971,user820@example.com,1385939643,Boston,MA,USA,Consultant,Bachelor,75000,2,305,Car,517
+James,Walker,4,22,1971,user821@example.com,7296510022,Denver,CO,USA,Nurse,High School,56000,2,330,Gambling,22
+Jessica,Dunn,5,17,1983,user822@example.com,5489632580,Seattle,WA,USA,Teacher,Master,60000,5,767,Gambling,
+Kathleen,Ramirez,12,13,1986,user823@example.com,7098058359,Miami,FL,USA,Doctor,Bachelor,150000,0,475,Gambling,98
+James,Middleton,3,27,1977,user824@example.com,9754473341,New York,NY,USA,Artist,Bachelor,40000,3,478,Rentals,"637, 679"
+Henry,Adams,4,12,1976,user825@example.com,9308185937,New York,NY,USA,Project Manager,Master,102000,0,833,Rentals,"588, 344, 294, 571, 650"
+John,Nguyen,4,8,1983,user826@example.com,8476369626,New York,NY,USA,Data Scientist,Master,114000,5,745,Travel,"704, 243"
+Taylor,Spencer,12,23,1988,user827@example.com,6379599488,Seattle,WA,USA,Artist,Bachelor,40000,3,745,Travel,"561, 32, 391, 277, 532, 154"
+Chris,Watts,12,17,1997,user828@example.com,8265794374,San Francisco,CA,USA,Artist,Bachelor,40000,2,328,Gambling,"68, 214, 655, 376, 744, 213"
+Shelby,Gomez,9,25,1970,user829@example.com,9032250257,San Francisco,CA,USA,Engineer,High School,64000,0,758,Car,"726, 628, 604, 782, 381, 680"
+Sarah,Nunez,1,25,1993,user830@example.com,2390216885,New York,NY,USA,Accountant,Bachelor,60000,1,484,Pets,796
+Samuel,Hines,8,25,1991,user831@example.com,7754476466,Boston,MA,USA,Consultant,Bachelor,75000,3,325,Rentals,447
+Anita,Owen,4,4,1995,user832@example.com,7289351403,Denver,CO,USA,Project Manager,Bachelor,85000,5,463,Car,760
+Jennifer,Moody,7,27,1972,user833@example.com,8161078093,Phoenix,AZ,USA,Project Manager,PhD,118999,5,343,Parties,"44, 97, 554, 227, 774"
+Amy,Black,11,26,1991,user834@example.com,6501615435,Chicago,IL,USA,Consultant,PhD,105000,4,561,Rentals,"436, 791, 601, 379, 178, 427"
+David,Martin,9,12,1979,user835@example.com,4020431932,Houston,TX,USA,Software Engineer,High School,72000,3,602,Rentals,"709, 307"
+Kristi,Jenkins,5,13,1992,user836@example.com,9174614128,Seattle,WA,USA,Engineer,High School,64000,3,420,Travel,"504, 268"
+Derek,Drake,11,21,1994,user837@example.com,4475916235,Denver,CO,USA,Project Manager,Bachelor,85000,2,605,Pets,8
+Alicia,Pierce,2,6,1973,user838@example.com,5669575870,Chicago,IL,USA,Software Engineer,Bachelor,90000,3,612,Pets,"476, 297, 164"
+Joshua,Cooley,2,23,1976,user839@example.com,2721543978,Los Angeles,CA,USA,Project Manager,PhD,118999,1,516,Parties,"597, 72, 567, 559"
+Roy,Harris,3,4,1978,user840@example.com,2629220617,San Francisco,CA,USA,Artist,High School,32000,2,654,Parties,"238, 104, 210, 554, 468, 454"
+Vickie,Sharp,4,2,1974,user841@example.com,2232333150,Houston,TX,USA,Accountant,PhD,84000,4,594,Rentals,"386, 775, 387"
+Lisa,Spence,9,7,1996,user842@example.com,4297907210,Phoenix,AZ,USA,Project Manager,Master,102000,4,759,Gambling,"259, 283, 626, 40"
+Mary,Arellano,10,15,1980,user843@example.com,2196035703,Chicago,IL,USA,Doctor,Bachelor,150000,4,765,Travel,"220, 129, 520, 613, 688"
+Daniel,Carlson,10,8,1987,user844@example.com,7130503683,Boston,MA,USA,Engineer,PhD,112000,3,766,Travel,"613, 260"
+Matthew,Evans,4,24,1991,user845@example.com,7495155177,Boston,MA,USA,Doctor,PhD,210000,2,824,Rentals,"366, 758, 787, 544, 649"
+Ralph,Chan,5,9,1972,user846@example.com,7549515594,Boston,MA,USA,Data Scientist,High School,76000,4,706,Car,"16, 129, 575"
+John,Foster,6,16,1971,user847@example.com,7743208127,Chicago,IL,USA,Teacher,PhD,70000,0,539,Gambling,"533, 670, 269, 162"
+Megan,Silva,7,4,1974,user848@example.com,1716285924,Boston,MA,USA,Project Manager,High School,68000,4,461,Rentals,"102, 506, 735"
+Timothy,Alvarado,6,17,1992,user849@example.com,8434813688,Phoenix,AZ,USA,Software Engineer,Master,108000,5,452,Gambling,"247, 640"
+Steve,Mahoney,6,2,1999,user850@example.com,9094167176,Phoenix,AZ,USA,Doctor,Master,180000,0,791,Gambling,"537, 131"
+Megan,Gonzalez,10,6,1983,user851@example.com,6154076139,Phoenix,AZ,USA,Doctor,PhD,210000,2,739,Gambling,
+Ann,Rogers,6,18,1997,user852@example.com,3974959229,Chicago,IL,USA,Accountant,Master,72000,3,339,Rentals,"793, 666, 382"
+Catherine,Whitaker,11,25,1984,user853@example.com,8254440077,Denver,CO,USA,Teacher,PhD,70000,2,349,Travel,"645, 227, 701, 476, 477"
+Mary,Cisneros,5,28,1974,user854@example.com,9945416928,Chicago,IL,USA,Data Scientist,High School,76000,2,843,Travel,
+Stephen,Brown,10,3,1972,user855@example.com,2972475121,Chicago,IL,USA,Data Scientist,Master,114000,4,772,Gambling,"486, 434, 646"
+Steven,White,10,6,1981,user856@example.com,1793632398,New York,NY,USA,Artist,High School,32000,2,311,Car,"572, 377"
+Keith,Hurst,12,22,1997,user857@example.com,4320333222,Chicago,IL,USA,Artist,Bachelor,40000,0,831,Pets,"450, 364"
+Gary,Moore,6,11,1972,user858@example.com,2049135617,Boston,MA,USA,Data Scientist,High School,76000,1,768,Rentals,"457, 725, 728"
+Cynthia,Sullivan,1,23,1970,user859@example.com,6927963201,New York,NY,USA,Doctor,PhD,210000,1,372,Pets,131
+Jesse,Ray,3,6,1974,user860@example.com,5755428345,Phoenix,AZ,USA,Project Manager,Master,102000,4,739,Car,"476, 798, 277"
+Kevin,Wiggins,4,20,2000,user861@example.com,5835085209,Seattle,WA,USA,Engineer,Bachelor,80000,2,350,Rentals,"760, 218, 190"
+Michael,Mueller,6,2,1995,user862@example.com,7680084200,Denver,CO,USA,Software Engineer,High School,72000,2,787,Gambling,
+Ashley,Daniels,4,25,1988,user863@example.com,3373398297,Miami,FL,USA,Accountant,Master,72000,3,384,Travel,"675, 692, 546, 41"
+Patrick,Hall,5,5,1979,user864@example.com,3843086791,Houston,TX,USA,Teacher,Bachelor,50000,2,541,Pets,"338, 314"
+Gina,Fowler,9,8,1988,user865@example.com,6453026881,Miami,FL,USA,Project Manager,Master,102000,3,775,Parties,"279, 176"
+Kimberly,Williamson,8,6,1983,user866@example.com,5007138967,Denver,CO,USA,Engineer,Bachelor,80000,0,318,Parties,"273, 620, 651, 783, 289"
+Daniel,Patel,11,30,1970,user867@example.com,1870526508,Miami,FL,USA,Data Scientist,PhD,133000,5,351,Car,"272, 66, 483"
+Lauren,Garcia,1,15,1977,user868@example.com,4473626230,Boston,MA,USA,Software Engineer,Master,108000,5,384,Gambling,"47, 454, 201"
+David,Vaughn,12,1,1976,user869@example.com,8627516656,San Francisco,CA,USA,Doctor,PhD,210000,4,524,Pets,"124, 1, 759"
+Julie,Burns,10,26,1971,user870@example.com,9666349683,Miami,FL,USA,Teacher,Bachelor,50000,1,422,Gambling,"640, 191, 579, 516, 442, 143"
+Mary,Davis,11,18,1998,user871@example.com,9850731324,Phoenix,AZ,USA,Software Engineer,PhD,125999,1,749,Pets,"533, 227, 313, 629, 302, 654"
+Gabriel,Mcintosh,1,14,1998,user872@example.com,2116874271,Seattle,WA,USA,Nurse,High School,56000,5,648,Car,"460, 401, 551"
+Louis,Jackson,8,5,1979,user873@example.com,6477094299,Boston,MA,USA,Teacher,Bachelor,50000,2,782,Car,
+Derrick,Williams,5,13,1974,user874@example.com,5915560832,Los Angeles,CA,USA,Engineer,PhD,112000,5,632,Parties,"764, 207"
+Ana,Bradley,10,21,1975,user875@example.com,2700352863,Boston,MA,USA,Artist,PhD,56000,0,498,Gambling,115
+Nathan,White,7,11,1977,user876@example.com,4400038543,Chicago,IL,USA,Project Manager,Bachelor,85000,1,648,Rentals,
+Samantha,Vaughan,6,15,1986,user877@example.com,3466415613,San Francisco,CA,USA,Consultant,PhD,105000,3,731,Parties,"251, 219, 407, 443, 603"
+Misty,Rivera,6,20,1997,user878@example.com,7741873331,Phoenix,AZ,USA,Engineer,PhD,112000,1,661,Gambling,558
+Tyler,Jacobs,5,8,1982,user879@example.com,3353615374,Denver,CO,USA,Project Manager,Master,102000,1,461,Parties,"142, 612, 501, 702, 547"
+David,Clark,7,31,1985,user880@example.com,8493326364,Phoenix,AZ,USA,Artist,Bachelor,40000,2,677,Rentals,"542, 507"
+Timothy,Alexander,3,12,1990,user881@example.com,5554598348,Miami,FL,USA,Software Engineer,Bachelor,90000,0,734,Travel,"281, 424, 270"
+Lisa,Ferguson,1,25,1993,user882@example.com,3779463437,Miami,FL,USA,Doctor,Bachelor,150000,5,598,Travel,614
+Nicholas,Nguyen,10,9,1977,user883@example.com,6513391085,Houston,TX,USA,Nurse,Bachelor,70000,0,753,Travel,"662, 83, 622, 426, 275, 713"
+Susan,Hawkins,1,13,1970,user884@example.com,5622484521,New York,NY,USA,Doctor,Master,180000,5,560,Travel,"173, 327, 718"
+Matthew,Young,1,1,1987,user885@example.com,9760064271,Houston,TX,USA,Teacher,Master,60000,3,529,Pets,"73, 763, 636, 375, 633, 508"
+Geoffrey,White,5,16,1989,user886@example.com,8809470664,Phoenix,AZ,USA,Software Engineer,PhD,125999,1,582,Travel,"398, 120"
+Rachel,Garcia,9,2,1987,user887@example.com,2108387509,New York,NY,USA,Nurse,High School,56000,3,737,Rentals,"437, 676, 465, 286, 265"
+Gary,Ferguson,12,30,1980,user888@example.com,1181774396,Boston,MA,USA,Consultant,Bachelor,75000,4,814,Car,
+Kevin,Rogers,11,24,1998,user889@example.com,7881655801,Miami,FL,USA,Project Manager,Bachelor,85000,2,477,Car,"89, 654, 203"
+Julie,Jefferson,12,1,1977,user890@example.com,6860414709,Houston,TX,USA,Teacher,Master,60000,1,305,Pets,"739, 334, 222, 41"
+Patrick,Horton,5,12,1997,user891@example.com,9738315290,Phoenix,AZ,USA,Nurse,Bachelor,70000,4,813,Travel,"68, 776, 514"
+Adam,Ramos,8,23,1975,user892@example.com,7316807192,Houston,TX,USA,Project Manager,High School,68000,2,384,Travel,
+Ryan,Graham,8,29,1974,user893@example.com,6646535205,Los Angeles,CA,USA,Teacher,Bachelor,50000,1,476,Travel,"622, 598, 632, 127"
+Samantha,Scott,8,9,1982,user894@example.com,2304451178,San Francisco,CA,USA,Consultant,Master,90000,5,805,Parties,"695, 16, 477, 62, 432, 670"
+Sheila,Robles,10,26,1992,user895@example.com,9479572099,San Francisco,CA,USA,Project Manager,PhD,118999,4,613,Gambling,"35, 779, 576"
+Wendy,Smith,10,4,1993,user896@example.com,3281913901,Los Angeles,CA,USA,Artist,High School,32000,0,321,Parties,"562, 469, 767, 661, 325"
+Mallory,Walker,10,14,1983,user897@example.com,2915729030,Miami,FL,USA,Project Manager,High School,68000,5,523,Gambling,"684, 201, 445"
+Isaiah,Fisher,12,7,1973,user898@example.com,3051320346,Miami,FL,USA,Data Scientist,Bachelor,95000,1,668,Travel,
+Maria,Mclean,3,13,1983,user899@example.com,4967589960,Seattle,WA,USA,Teacher,Bachelor,50000,1,368,Travel,"35, 482, 728"
+Jacob,Murphy,2,1,1992,user900@example.com,3770358614,Boston,MA,USA,Consultant,PhD,105000,0,563,Parties,
+Mary,Butler,6,3,1990,user901@example.com,2848814644,Phoenix,AZ,USA,Nurse,Bachelor,70000,2,522,Parties,"343, 431, 424, 332"
+Bethany,Young,12,18,1987,user902@example.com,8745701898,Boston,MA,USA,Artist,Master,48000,4,750,Gambling,"588, 174, 559, 527, 659"
+Emily,Medina,5,10,1981,user903@example.com,7467948612,Los Angeles,CA,USA,Nurse,Bachelor,70000,2,764,Car,605
+Kara,Bailey,8,27,1990,user904@example.com,6004201965,Los Angeles,CA,USA,Project Manager,PhD,118999,0,642,Gambling,"232, 533, 550, 788, 505"
+Angel,Garcia,1,19,1986,user905@example.com,1799021479,Phoenix,AZ,USA,Accountant,Bachelor,60000,0,586,Parties,"179, 132, 455, 348"
+Ann,Turner,7,24,1971,user906@example.com,9791746293,San Francisco,CA,USA,Artist,Master,48000,3,557,Rentals,"772, 406, 76"
+Aaron,Wright,7,10,1999,user907@example.com,4495675869,New York,NY,USA,Engineer,PhD,112000,3,731,Parties,"579, 492, 194, 162"
+Kevin,Graham,6,26,1988,user908@example.com,3100186453,Houston,TX,USA,Engineer,Master,96000,1,695,Rentals,"361, 769"
+James,Moran,7,25,1995,user909@example.com,8019051517,San Francisco,CA,USA,Doctor,Bachelor,150000,3,407,Pets,"262, 214, 665, 722, 573, 780"
+Christina,Travis,4,14,1985,user910@example.com,1915250100,Los Angeles,CA,USA,Data Scientist,High School,76000,3,650,Parties,"730, 283, 648, 467, 380"
+Justin,Cantu,6,21,1993,user911@example.com,5113354222,Houston,TX,USA,Engineer,PhD,112000,0,357,Pets,449
+Karen,Williams,11,26,1999,user912@example.com,3596412463,Phoenix,AZ,USA,Teacher,Master,60000,4,509,Car,
+Stephen,Zimmerman,11,14,1992,user913@example.com,9159452223,Seattle,WA,USA,Engineer,Bachelor,80000,0,320,Gambling,"621, 753, 424, 142"
+Scott,Flores,2,12,1992,user914@example.com,9909993498,Seattle,WA,USA,Teacher,Bachelor,50000,0,333,Rentals,"432, 749"
+Dwayne,Thompson,3,10,1988,user915@example.com,5905183004,Miami,FL,USA,Project Manager,Master,102000,0,515,Gambling,"689, 653, 701"
+Richard,Weber,12,1,1972,user916@example.com,5951238006,Miami,FL,USA,Artist,Master,48000,5,828,Pets,"49, 302, 190, 136, 555"
+Jason,Olsen,7,13,1996,user917@example.com,6608440956,Boston,MA,USA,Accountant,High School,48000,3,317,Rentals,"602, 341, 757"
+David,Santiago,11,10,1994,user918@example.com,3908952553,Houston,TX,USA,Artist,Master,48000,4,339,Gambling,
+Tracy,Smith,3,21,1998,user919@example.com,1813055408,New York,NY,USA,Engineer,PhD,112000,3,803,Parties,"618, 363, 382, 233, 777"
+Ralph,Murphy,5,30,1991,user920@example.com,8006047264,Denver,CO,USA,Doctor,Master,180000,3,540,Travel,"553, 529, 789, 571"
+Tracy,Gonzales,5,20,1984,user921@example.com,6613817088,New York,NY,USA,Teacher,Bachelor,50000,5,330,Pets,"183, 41, 551, 397, 704, 779"
+Miguel,Ortega,1,2,1996,user922@example.com,5234486148,Seattle,WA,USA,Engineer,Master,96000,4,352,Gambling,"659, 333, 127, 558, 557"
+John,Munoz,9,12,1985,user923@example.com,9330225562,Phoenix,AZ,USA,Artist,High School,32000,1,770,Pets,
+Bruce,Howard,3,27,1978,user924@example.com,4159830360,New York,NY,USA,Doctor,PhD,210000,0,667,Pets,"19, 332, 584"
+Brandon,Smith,5,1,1983,user925@example.com,7461044437,Chicago,IL,USA,Software Engineer,Bachelor,90000,5,745,Rentals,"109, 268, 445, 240"
+Andrea,Reilly,9,12,1998,user926@example.com,6260127293,Seattle,WA,USA,Project Manager,PhD,118999,0,742,Rentals,
+Erik,Stephenson,8,30,1989,user927@example.com,3330000451,Phoenix,AZ,USA,Accountant,Bachelor,60000,2,396,Travel,"602, 103, 250, 453"
+Jerry,Cunningham,11,1,1987,user928@example.com,3544091640,Seattle,WA,USA,Consultant,Bachelor,75000,5,311,Parties,
+Timothy,Diaz,5,19,1991,user929@example.com,2430127050,Seattle,WA,USA,Project Manager,High School,68000,5,502,Pets,"174, 343"
+Shane,Martin,12,31,1985,user930@example.com,4437936613,Boston,MA,USA,Engineer,Master,96000,2,597,Gambling,"431, 727, 689, 687, 658"
+Christopher,Sanchez,2,23,1998,user931@example.com,9961971152,Phoenix,AZ,USA,Accountant,High School,48000,3,687,Car,324
+Ashlee,Harrington,5,4,1994,user932@example.com,4438028125,Phoenix,AZ,USA,Nurse,Master,84000,4,377,Pets,"673, 639, 420, 594, 485"
+William,Fitzgerald,2,11,1970,user933@example.com,8084347658,New York,NY,USA,Consultant,Master,90000,4,455,Pets,"751, 412"
+Amy,Gilbert,11,23,1984,user934@example.com,3031450173,San Francisco,CA,USA,Project Manager,Master,102000,0,686,Travel,"113, 737, 332"
+Thomas,Barton,9,2,1982,user935@example.com,8390873189,Los Angeles,CA,USA,Engineer,Master,96000,2,423,Parties,755
+Amanda,Castro,1,3,1992,user936@example.com,8790040988,Seattle,WA,USA,Software Engineer,Master,108000,2,804,Car,"41, 770, 797, 105, 202, 450"
+Barbara,Brown,6,6,1970,user937@example.com,7680007274,Miami,FL,USA,Data Scientist,PhD,133000,0,816,Rentals,"266, 210"
+Blake,Phillips,7,22,1999,user938@example.com,7038496144,San Francisco,CA,USA,Nurse,PhD,98000,5,670,Rentals,"118, 713"
+Jessica,Powell,1,17,1976,user939@example.com,2768004374,Seattle,WA,USA,Data Scientist,Master,114000,3,726,Gambling,
+Raymond,Jenkins,3,15,2000,user940@example.com,4221606357,New York,NY,USA,Consultant,Bachelor,75000,2,505,Car,"540, 771, 84, 454, 667, 629"
+Daniel,Schmitt,7,14,1993,user941@example.com,8045149527,Los Angeles,CA,USA,Consultant,Bachelor,75000,3,599,Rentals,605
+April,Noble,1,18,1979,user942@example.com,7041615522,Los Angeles,CA,USA,Teacher,High School,40000,3,473,Gambling,"387, 350, 296, 258, 81"
+Robert,Montes,4,19,1972,user943@example.com,4952632856,Denver,CO,USA,Data Scientist,High School,76000,2,494,Parties,
+Brianna,Harris,3,28,1995,user944@example.com,8111802455,San Francisco,CA,USA,Artist,High School,32000,1,819,Gambling,"268, 419, 235, 311, 357"
+Stephanie,White,9,3,1984,user945@example.com,6545875700,Denver,CO,USA,Project Manager,Bachelor,85000,4,609,Rentals,"574, 49, 127, 223"
+Jonathan,Lam,12,3,1991,user946@example.com,1859007469,Los Angeles,CA,USA,Software Engineer,PhD,125999,1,688,Travel,
+Joel,Ritter,4,10,1991,user947@example.com,1381233845,Boston,MA,USA,Software Engineer,High School,72000,1,720,Travel,"408, 505, 294, 796, 277, 438"
+Eugene,Cole,9,16,1977,user948@example.com,3487168588,Chicago,IL,USA,Artist,Bachelor,40000,1,391,Travel,"658, 420"
+Jessica,Lyons,8,30,1972,user949@example.com,8144868349,Chicago,IL,USA,Artist,PhD,56000,4,722,Rentals,"429, 375"
+Rebecca,Wood,3,26,1991,user950@example.com,2509326519,Seattle,WA,USA,Doctor,High School,120000,3,838,Travel,
+Elizabeth,Clark,4,6,1977,user951@example.com,3575331430,Phoenix,AZ,USA,Doctor,Bachelor,150000,5,387,Car,"634, 30, 188, 364"
+Anthony,Gregory,1,27,1972,user952@example.com,6457636149,Miami,FL,USA,Data Scientist,PhD,133000,3,499,Parties,800
+Andrea,Keller,9,19,1973,user953@example.com,9689044391,Phoenix,AZ,USA,Engineer,Bachelor,80000,4,363,Gambling,"195, 156"
+Jesse,Morales,2,3,1971,user954@example.com,7167200472,Boston,MA,USA,Nurse,High School,56000,4,481,Gambling,"41, 63, 23"
+Nathan,Calderon,5,6,1983,user955@example.com,8009148575,Houston,TX,USA,Software Engineer,Master,108000,2,534,Rentals,"560, 672"
+Adam,Camacho,3,26,1975,user956@example.com,7822662574,Seattle,WA,USA,Nurse,High School,56000,4,742,Travel,118
+Lindsey,Maldonado,7,21,1979,user957@example.com,2830637155,San Francisco,CA,USA,Data Scientist,High School,76000,2,505,Travel,"380, 679, 290"
+Lori,Dixon,5,23,1973,user958@example.com,8701814511,Phoenix,AZ,USA,Consultant,High School,60000,5,485,Pets,"7, 196, 421"
+Amanda,Green,6,8,1985,user959@example.com,1093791302,Denver,CO,USA,Accountant,Master,72000,4,626,Parties,
+William,Wilkinson,6,29,1995,user960@example.com,7580064187,Denver,CO,USA,Doctor,High School,120000,0,786,Car,
+Derrick,Johnson,3,2,1988,user961@example.com,1351537336,Boston,MA,USA,Artist,Bachelor,40000,4,357,Gambling,"148, 787, 669, 202, 444, 419"
+Nicholas,Frank,10,6,1979,user962@example.com,7296858952,Denver,CO,USA,Nurse,Bachelor,70000,4,574,Pets,"479, 475"
+Cynthia,Hobbs,5,13,1991,user963@example.com,4996297803,New York,NY,USA,Accountant,Master,72000,2,551,Pets,"395, 576, 325, 392, 688"
+Elijah,Cabrera,1,10,1994,user964@example.com,9101482139,Chicago,IL,USA,Project Manager,High School,68000,0,590,Rentals,"440, 204, 486"
+Maxwell,George,2,8,1988,user965@example.com,1183019944,Houston,TX,USA,Engineer,High School,64000,1,500,Gambling,
+Lindsay,Anderson,5,31,1995,user966@example.com,1478269045,Miami,FL,USA,Consultant,High School,60000,1,480,Rentals,"388, 625, 434, 376, 344, 443"
+Adam,Kirk,9,18,1984,user967@example.com,2600258792,San Francisco,CA,USA,Consultant,Master,90000,4,599,Car,"75, 557"
+Austin,Romero,3,6,1978,user968@example.com,9032073594,Los Angeles,CA,USA,Engineer,Master,96000,1,832,Pets,"666, 155, 430"
+Joshua,Morgan,3,29,1996,user969@example.com,3082144104,Houston,TX,USA,Data Scientist,PhD,133000,5,569,Pets,"363, 448, 234, 563, 262"
+Brittany,Smith,11,24,1977,user970@example.com,9782729344,Houston,TX,USA,Artist,PhD,56000,3,520,Parties,"125, 245"
+Christian,Humphrey,5,3,1998,user971@example.com,2539196075,Houston,TX,USA,Engineer,PhD,112000,5,354,Car,"485, 122, 125, 549, 170"
+Travis,Garrett,2,3,1982,user972@example.com,7389321470,Miami,FL,USA,Artist,High School,32000,0,724,Pets,"35, 87, 646"
+Brian,Lewis,4,30,1985,user973@example.com,6095268738,Chicago,IL,USA,Project Manager,Bachelor,85000,5,599,Car,"786, 201, 369"
+Heather,Keith,8,8,1978,user974@example.com,2345406352,Denver,CO,USA,Nurse,Master,84000,0,399,Gambling,"77, 59, 431, 638"
+Jared,Huff,3,17,1999,user975@example.com,7098969573,Chicago,IL,USA,Software Engineer,Master,108000,2,457,Travel,"109, 736, 278"
+Alyssa,Graves,4,4,1971,user976@example.com,7484317192,Boston,MA,USA,Software Engineer,High School,72000,5,664,Pets,"69, 165, 489"
+Scott,Collins,5,5,1991,user977@example.com,2876149745,New York,NY,USA,Doctor,PhD,210000,4,837,Parties,
+Richard,Carter,5,17,1999,user978@example.com,2812685754,Houston,TX,USA,Data Scientist,PhD,133000,4,778,Gambling,"674, 365, 379, 343"
+Sherry,Knight,2,15,1995,user979@example.com,4112867825,Seattle,WA,USA,Accountant,PhD,84000,3,771,Car,"554, 354"
+Mark,Brown,7,28,1979,user980@example.com,2290010586,Boston,MA,USA,Project Manager,High School,68000,4,659,Rentals,"563, 762, 497, 341"
+Alan,Carter,3,23,1984,user981@example.com,9282080427,Boston,MA,USA,Accountant,PhD,84000,5,507,Gambling,"383, 533, 300, 139, 359"
+Jason,Chung,4,3,1991,user982@example.com,5973362790,Boston,MA,USA,Artist,Master,48000,3,367,Pets,"499, 385, 604"
+Hannah,Johnston,4,15,1975,user983@example.com,7429393242,Chicago,IL,USA,Consultant,High School,60000,2,483,Car,"280, 637, 483, 111, 139, 435"
+Nathan,Krueger,6,2,1981,user984@example.com,5170373980,Houston,TX,USA,Nurse,Bachelor,70000,4,374,Travel,"273, 99, 764, 104"
+Mitchell,Sutton,1,15,1985,user985@example.com,8437965559,San Francisco,CA,USA,Doctor,Master,180000,5,743,Gambling,"761, 664, 762, 787, 165"
+Hunter,Myers,1,31,1992,user986@example.com,1834332902,New York,NY,USA,Consultant,Master,90000,4,644,Pets,"520, 284, 517, 657, 613, 164"
+Claudia,Ryan,10,13,1997,user987@example.com,9984168854,Boston,MA,USA,Consultant,High School,60000,0,582,Parties,"659, 64, 91, 117, 267"
+Allen,Lynch,4,15,1993,user988@example.com,5686325028,New York,NY,USA,Nurse,Bachelor,70000,3,795,Rentals,"685, 559, 140, 246, 661"
+John,Smith,2,21,1981,user989@example.com,9477617362,Los Angeles,CA,USA,Accountant,Bachelor,60000,0,584,Car,"395, 487, 476, 517, 184"
+Autumn,Miller,12,11,1980,user990@example.com,3054605767,Boston,MA,USA,Teacher,PhD,70000,1,781,Gambling,"558, 524, 582"
+Jesus,Jones,1,31,1970,user991@example.com,1415869870,Boston,MA,USA,Accountant,Bachelor,60000,1,303,Gambling,
+Bianca,Barrett,5,3,1970,user992@example.com,7972845371,Phoenix,AZ,USA,Accountant,High School,48000,2,840,Travel,"147, 666"
+Donna,Aguilar,2,17,1976,user993@example.com,3051934174,Phoenix,AZ,USA,Consultant,High School,60000,2,422,Travel,"748, 582, 695"
+Marcus,Miller,11,11,1985,user994@example.com,3935189974,Seattle,WA,USA,Consultant,Master,90000,5,601,Parties,228
+Mark,Conway,6,22,1998,user995@example.com,4628875685,Seattle,WA,USA,Nurse,Bachelor,70000,5,397,Rentals,"587, 417, 216, 407, 399"
+Karen,Hickman,4,11,1994,user996@example.com,7670276734,Houston,TX,USA,Engineer,PhD,112000,1,322,Parties,"715, 704"
+Justin,Wagner,10,10,1973,user997@example.com,2719665800,Houston,TX,USA,Software Engineer,Master,108000,1,340,Pets,
+Sandra,Morris,3,31,1988,user998@example.com,9786686437,New York,NY,USA,Software Engineer,High School,72000,1,589,Pets,"754, 465"
+Michael,Martinez,4,18,1974,user999@example.com,7237252187,Miami,FL,USA,Engineer,Bachelor,80000,0,774,Parties,"731, 82"
