@@ -8,7 +8,7 @@ df = pd.read_csv('people.csv')
 interests = ["Pets", "Gambling", "Travel", "Car", "Parties", "Rentals"]
 
 # Randomly assign an interest to each person in the dataset
-np.random.seed(42)  # Optional: for reproducible results
+np.random.seed(42) 
 df['Interest'] = np.random.choice(interests, size=len(df))
 
 # Save the modified DataFrame to a new CSV file
