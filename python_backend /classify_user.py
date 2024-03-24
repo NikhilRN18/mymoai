@@ -6,6 +6,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.base import BaseEstimator, TransformerMixin
 from datetime import datetime
 import numpy as np
+from sklearn.metrics.pairwise import euclidean_distances
 
 class ArrayToDataFrame(BaseEstimator, TransformerMixin):
     def fit(self, X, y=None):
@@ -104,8 +105,14 @@ def prepare_user_data(user_data):
 # Function to predict and assign a new user to a moai
 def assign_to_moai(user_data, kmeans_model):
     prepared_data = prepare_user_data(user_data)
-    cluster_label = kmeans_model.predict(prepared_data)[0]
-    return cluster_label
+    preprocessed_data = kmeans_model.named_steps['preprocessor'].transform(prepared_data)
+    
+    # Calculate distances to cluster centers
+    distances = euclidean_distances(preprocessed_data, kmeans_model.named_steps['cluster'].cluster_centers_)
+    
+    # Find the indices of the five closest clusters
+    closest_indices = np.argsort(distances[0])[:5]
+    return closest_indices
 
 user_data = {
     "firstName": "Elena",
@@ -120,7 +127,7 @@ user_data = {
     "country": "USA",
     "occupation": "Consultant",
     "education": "Bachelor",
-    "salary": 25000,  # Reflecting the occupation and education level trend
+    "salary": 25000,  
     "dependents": 0,
     "creditScore": 800
 }
@@ -145,7 +152,6 @@ def describe_cluster(cluster_id, model):
     # Preparing the description dictionary with numerical features
     descriptions = {numerical_features[i]: num_centroid_inv[i] for i in range(len(numerical_features))}
 
-    # Handling categorical features (finding the max value index for one-hot encoded vectors)
     start_idx = 0
     for feature in categorical_features:
         end_idx = start_idx + onehot.categories_[categorical_features.index(feature)].shape[0]
@@ -155,13 +161,19 @@ def describe_cluster(cluster_id, model):
 
     return descriptions
 
-# Get feature names for interpretation (note: adjustment may be needed for one-hot encoded features)
 feature_names = numerical_features + [cat for feature in categorical_features for cat in feature]
 
+def describe_moais(moai_indices, model):
+    descriptions = []
+    for cluster_id in moai_indices:
+        description = describe_cluster(cluster_id, model)
+        descriptions.append((cluster_id, description))
+    return descriptions
 
-recommended_moai = assign_to_moai(user_data, kmeans)
-print(f"Recommended Moai Group: {recommended_moai}")
+# Predict and find the closest moais for a user
+closest_moais_indices = assign_to_moai(user_data, kmeans)
+closest_moais_descriptions = describe_moais(closest_moais_indices, kmeans)
 
-cluster_id = recommended_moai
-cluster_description = describe_cluster(cluster_id, kmeans)
-print(f"Defining parameters of Moai Group {cluster_id}: {cluster_description}")
+# Output the closest moais and their descriptions
+for moai_idx, description in closest_moais_descriptions:
+    print(f"Moai Group {moai_idx}: {description}")
