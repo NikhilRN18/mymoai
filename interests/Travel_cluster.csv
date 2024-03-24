@@ -1,0 +1,33 @@
+firstName,lastName,month,day,year,email,phoneNumber,city,state,country,occupation,education,salary,dependents,creditScore,Interest
+Joshua,Perez,11,16,1990,user2@example.com,3118571426,San Francisco,CA,USA,Project Manager,Master,102000,2,466,Travel
+David,Foster,10,24,1981,user6@example.com,2375201618,Boston,MA,USA,Data Scientist,Master,114000,5,482,Travel
+Daniel,Rivera,3,9,1995,user7@example.com,2080578149,Los Angeles,CA,USA,Software Engineer,Bachelor,90000,1,319,Travel
+Peter,Silva,5,17,1982,user8@example.com,9780886341,Seattle,WA,USA,Artist,PhD,56000,2,468,Travel
+Thomas,Guerrero,7,19,1973,user11@example.com,7365429254,Chicago,IL,USA,Artist,PhD,56000,1,382,Travel
+Debra,Patterson,2,3,1974,user29@example.com,9636232438,New York,NY,USA,Software Engineer,Master,108000,3,583,Travel
+Michael,King,9,13,1988,user30@example.com,8899250848,New York,NY,USA,Artist,High School,32000,2,672,Travel
+Doris,Mcgrath,1,25,1977,user37@example.com,6734879538,Houston,TX,USA,Engineer,High School,64000,3,421,Travel
+Destiny,Jenkins,5,12,1989,user41@example.com,4957966499,New York,NY,USA,Project Manager,Master,102000,2,724,Travel
+Krista,Rodriguez,6,25,1983,user43@example.com,4078887109,Miami,FL,USA,Artist,High School,32000,2,743,Travel
+Melissa,Noble,4,1,1988,user62@example.com,4579718384,Houston,TX,USA,Data Scientist,Bachelor,95000,2,589,Travel
+Christopher,Robertson,2,23,1996,user106@example.com,4077527164,Boston,MA,USA,Consultant,High School,60000,0,839,Travel
+Stephanie,Bell,9,10,1996,user107@example.com,1180719851,San Francisco,CA,USA,Engineer,PhD,112000,1,689,Travel
+Robert,Kennedy,3,8,1972,user109@example.com,8038093987,Miami,FL,USA,Engineer,High School,64000,1,317,Travel
+James,Jackson,6,13,1997,user110@example.com,3562195366,San Francisco,CA,USA,Consultant,High School,60000,4,455,Travel
+Matthew,Romero,2,26,1999,user112@example.com,2682923883,Los Angeles,CA,USA,Doctor,Bachelor,150000,3,486,Travel
+Sylvia,Wise,5,9,1972,user124@example.com,1129369101,Phoenix,AZ,USA,Software Engineer,PhD,125999,1,339,Travel
+Melissa,Cain,3,10,1982,user127@example.com,7250597828,Los Angeles,CA,USA,Project Manager,Master,102000,1,470,Travel
+Carol,Lewis,5,13,1988,user128@example.com,1400594944,Houston,TX,USA,Teacher,High School,40000,4,718,Travel
+Heather,Fisher,8,15,1992,user130@example.com,5508422524,Seattle,WA,USA,Project Manager,PhD,118999,4,358,Travel
+Sean,Gutierrez,3,17,1988,user133@example.com,7467215141,Seattle,WA,USA,Doctor,Bachelor,150000,3,793,Travel
+Pamela,Thompson,8,22,1998,user138@example.com,1548371503,Los Angeles,CA,USA,Project Manager,Bachelor,85000,1,303,Travel
+Jonathan,Davis,4,7,1997,user144@example.com,7801513706,Chicago,IL,USA,Software Engineer,PhD,125999,3,445,Travel
+Jeffrey,Gonzalez,11,15,1984,user152@example.com,8526828198,Chicago,IL,USA,Doctor,High School,120000,5,332,Travel
+Timothy,Rodriguez,11,4,1976,user156@example.com,6466711630,Phoenix,AZ,USA,Software Engineer,Bachelor,90000,1,694,Travel
+Destiny,Fox,2,27,2000,user157@example.com,8423289852,Phoenix,AZ,USA,Artist,High School,32000,5,479,Travel
+Rebecca,Lawrence,9,28,1971,user174@example.com,6492812043,Denver,CO,USA,Nurse,High School,56000,2,773,Travel
+Mark,Lopez,8,22,1971,user182@example.com,1851853410,New York,NY,USA,Project Manager,PhD,118999,4,670,Travel
+Mary,Johnson,6,14,1987,user188@example.com,5585166365,Boston,MA,USA,Data Scientist,High School,76000,1,591,Travel
+April,Bowen,6,3,1989,user190@example.com,4828838506,Los Angeles,CA,USA,Accountant,High School,48000,4,796,Travel
+Jesse,Bates,7,22,1988,user195@example.com,1951396200,Boston,MA,USA,Teacher,Bachelor,50000,2,768,Travel
+James,Soto,5,28,1977,user198@example.com,5805745716,Phoenix,AZ,USA,Project Manager,PhD,118999,0,792,Travel

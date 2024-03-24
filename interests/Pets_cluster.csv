@@ -1,0 +1,34 @@
+firstName,lastName,month,day,year,email,phoneNumber,city,state,country,occupation,education,salary,dependents,creditScore,Interest
+Rachel,Johnson,6,30,1997,user21@example.com,2464237579,San Francisco,CA,USA,Artist,PhD,56000,1,841,Pets
+Lisa,Jones,12,18,1993,user27@example.com,7702849882,Boston,MA,USA,Consultant,High School,60000,0,328,Pets
+Rebekah,Solomon,1,20,1975,user28@example.com,4460730888,Seattle,WA,USA,Nurse,Bachelor,70000,5,469,Pets
+Timothy,Evans,11,27,1978,user40@example.com,1491476031,Miami,FL,USA,Teacher,High School,40000,2,703,Pets
+Alexander,Nichols,6,30,1979,user45@example.com,5058751651,Denver,CO,USA,Artist,Bachelor,40000,5,470,Pets
+Mark,Clark,8,5,1979,user48@example.com,4838514747,Houston,TX,USA,Software Engineer,PhD,125999,2,414,Pets
+Kurt,Ruiz,10,31,1991,user53@example.com,2070830932,Boston,MA,USA,Doctor,High School,120000,3,592,Pets
+Jennifer,Campbell,1,21,1993,user64@example.com,4874037988,Miami,FL,USA,Engineer,Master,96000,3,737,Pets
+Jermaine,Ryan,12,23,1979,user86@example.com,9584728947,Miami,FL,USA,Teacher,Bachelor,50000,3,788,Pets
+Donna,Young,8,8,1982,user93@example.com,1792082187,Phoenix,AZ,USA,Project Manager,Master,102000,0,811,Pets
+Brandy,Harris,6,16,1991,user98@example.com,7528460192,Miami,FL,USA,Project Manager,Bachelor,85000,1,815,Pets
+Troy,Haynes,7,19,1980,user101@example.com,4956436064,Denver,CO,USA,Artist,Bachelor,40000,1,410,Pets
+Michael,Keller,6,3,1985,user102@example.com,6859385500,New York,NY,USA,Accountant,High School,48000,2,370,Pets
+Jacob,Gray,7,9,1973,user103@example.com,6502812102,Los Angeles,CA,USA,Engineer,Master,96000,1,653,Pets
+Kevin,Anderson,5,12,1992,user104@example.com,6017041116,New York,NY,USA,Data Scientist,High School,76000,3,498,Pets
+Shawn,Lara,9,24,1996,user108@example.com,9906627362,Denver,CO,USA,Artist,PhD,56000,4,820,Pets
+Alexandra,Watson,9,13,1985,user111@example.com,3261523831,Phoenix,AZ,USA,Accountant,High School,48000,5,479,Pets
+Troy,Chavez,6,8,1987,user116@example.com,4062864831,Boston,MA,USA,Teacher,Master,60000,5,399,Pets
+Robert,Young,4,9,1990,user118@example.com,2193154504,Denver,CO,USA,Engineer,Bachelor,80000,3,311,Pets
+Whitney,Mccall,2,4,1976,user121@example.com,5379040737,Chicago,IL,USA,Consultant,Master,90000,2,497,Pets
+Karen,Phelps,8,20,1988,user129@example.com,2964251768,Seattle,WA,USA,Nurse,PhD,98000,0,468,Pets
+Matthew,Robinson,8,20,1984,user134@example.com,2930785043,Phoenix,AZ,USA,Doctor,High School,120000,5,507,Pets
+Corey,Malone,10,26,1984,user139@example.com,9580917778,Chicago,IL,USA,Teacher,Bachelor,50000,2,811,Pets
+Krystal,Smith,7,24,1985,user145@example.com,8226478169,Boston,MA,USA,Engineer,Bachelor,80000,4,795,Pets
+Christina,Hayes,8,5,1992,user164@example.com,1374204541,San Francisco,CA,USA,Engineer,Bachelor,80000,3,561,Pets
+Jeffery,Adams,4,22,1990,user177@example.com,5703778248,New York,NY,USA,Project Manager,PhD,118999,5,595,Pets
+Michelle,Hurst,8,24,1973,user179@example.com,2547792849,Houston,TX,USA,Nurse,Bachelor,70000,5,742,Pets
+Diane,Mclaughlin,12,25,1997,user180@example.com,9108551581,Houston,TX,USA,Engineer,Bachelor,80000,0,527,Pets
+Douglas,Gonzales,7,19,1999,user181@example.com,8917756883,Phoenix,AZ,USA,Software Engineer,Bachelor,90000,4,756,Pets
+Jasmine,Campbell,4,19,1990,user184@example.com,1121405334,Los Angeles,CA,USA,Accountant,Master,72000,1,496,Pets
+Elizabeth,Brooks,1,27,1981,user187@example.com,6542162562,Denver,CO,USA,Consultant,PhD,105000,1,320,Pets
+Brittany,Johnson,8,27,2000,user191@example.com,3708702634,Chicago,IL,USA,Engineer,High School,64000,3,668,Pets
+Martin,Patterson,7,6,1998,user194@example.com,4102859314,Denver,CO,USA,Data Scientist,Bachelor,95000,5,309,Pets

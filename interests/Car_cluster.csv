@@ -1,0 +1,43 @@
+firstName,lastName,month,day,year,email,phoneNumber,city,state,country,occupation,education,salary,dependents,creditScore,Interest
+Julian,Parker,3,2,1991,user0@example.com,1616329139,Los Angeles,CA,USA,Software Engineer,Bachelor,90000,4,773,Car
+Christy,Brooks,3,11,1986,user10@example.com,4731415167,Miami,FL,USA,Artist,PhD,56000,1,692,Car
+Annette,Garcia,7,29,1984,user15@example.com,9048373053,Denver,CO,USA,Software Engineer,PhD,125999,1,460,Car
+Kenneth,Schultz,2,11,1975,user19@example.com,1915507623,Miami,FL,USA,Accountant,PhD,84000,4,361,Car
+Kelly,Miranda,1,20,1983,user22@example.com,7807367142,Boston,MA,USA,Software Engineer,High School,72000,5,383,Car
+Bailey,Flores,1,21,1985,user26@example.com,4071998693,Los Angeles,CA,USA,Nurse,High School,56000,5,385,Car
+Heather,Nguyen,12,20,1993,user32@example.com,7671640651,Denver,CO,USA,Accountant,Master,72000,2,797,Car
+Kelly,Pope,3,21,1984,user33@example.com,8052165263,Houston,TX,USA,Accountant,High School,48000,2,821,Car
+Elizabeth,Lane,8,31,2000,user38@example.com,6677136972,Chicago,IL,USA,Artist,Master,48000,1,424,Car
+Robin,Roberts,12,14,1988,user39@example.com,5066768613,Chicago,IL,USA,Project Manager,Master,102000,4,574,Car
+Jennifer,Wallace,6,6,1996,user47@example.com,9437298715,San Francisco,CA,USA,Nurse,Master,84000,5,664,Car
+Crystal,Jones,10,28,1985,user49@example.com,3098151563,Los Angeles,CA,USA,Consultant,Master,90000,4,598,Car
+Mary,Nelson,10,19,1999,user57@example.com,9796425659,Seattle,WA,USA,Data Scientist,Bachelor,95000,1,539,Car
+Timothy,Whitaker,3,9,2000,user58@example.com,8570029256,Boston,MA,USA,Nurse,Master,84000,0,382,Car
+Crystal,Gordon,6,9,1999,user59@example.com,1505079945,New York,NY,USA,Accountant,High School,48000,2,639,Car
+Derek,Vang,1,9,1989,user60@example.com,7035904138,San Francisco,CA,USA,Software Engineer,High School,72000,3,447,Car
+John,Jones,9,29,1997,user65@example.com,6166932939,Boston,MA,USA,Accountant,Master,72000,2,545,Car
+Karen,Alvarado,10,14,1993,user67@example.com,4322388112,Chicago,IL,USA,Teacher,High School,40000,3,318,Car
+Amy,Cameron,9,29,1973,user73@example.com,9342773970,Denver,CO,USA,Software Engineer,PhD,125999,2,753,Car
+Ryan,Williams,6,5,1977,user78@example.com,6399047168,Miami,FL,USA,Consultant,High School,60000,2,732,Car
+Ryan,Smith,2,20,1995,user82@example.com,1098532412,Chicago,IL,USA,Data Scientist,PhD,133000,5,478,Car
+Christine,Jones,6,27,1984,user85@example.com,1654548330,Chicago,IL,USA,Consultant,Master,90000,4,307,Car
+Desiree,Graham,1,7,1985,user94@example.com,5374873351,Los Angeles,CA,USA,Nurse,Master,84000,0,609,Car
+Gabriella,Acevedo,8,6,1991,user95@example.com,2057171185,New York,NY,USA,Software Engineer,Master,108000,4,586,Car
+Elizabeth,Turner,3,12,1996,user96@example.com,9245601353,San Francisco,CA,USA,Project Manager,High School,68000,1,733,Car
+Gary,Patel,2,8,1992,user105@example.com,9421413970,New York,NY,USA,Consultant,Master,90000,1,607,Car
+Dylan,Morgan,9,24,1970,user117@example.com,8393330311,Miami,FL,USA,Accountant,Bachelor,60000,0,310,Car
+Kelly,Stanley,6,6,1987,user119@example.com,4921792804,Los Angeles,CA,USA,Artist,High School,32000,1,488,Car
+Jennifer,Singleton,9,12,1996,user125@example.com,2825331690,Los Angeles,CA,USA,Accountant,PhD,84000,1,495,Car
+Diane,Page,7,19,1999,user142@example.com,6720098717,Los Angeles,CA,USA,Project Manager,Bachelor,85000,5,808,Car
+Mary,Ortega,11,9,1978,user146@example.com,7267955582,Boston,MA,USA,Engineer,High School,64000,0,731,Car
+Brent,Chandler,10,1,1989,user148@example.com,1864436399,Boston,MA,USA,Data Scientist,PhD,133000,0,726,Car
+Matthew,Brown,8,5,1973,user154@example.com,7168830420,Houston,TX,USA,Project Manager,PhD,118999,1,784,Car
+Samantha,Rogers,10,9,1991,user159@example.com,3648243675,Houston,TX,USA,Engineer,Bachelor,80000,1,319,Car
+Christopher,Browning,12,21,1971,user167@example.com,3867331967,Houston,TX,USA,Teacher,PhD,70000,4,762,Car
+Mallory,Andersen,11,2,1971,user168@example.com,3036574665,Los Angeles,CA,USA,Data Scientist,Bachelor,95000,0,803,Car
+Patricia,George,5,3,1983,user169@example.com,7543412981,New York,NY,USA,Data Scientist,Bachelor,95000,0,811,Car
+Haley,Duarte,11,2,1987,user170@example.com,9380516130,Chicago,IL,USA,Project Manager,PhD,118999,0,792,Car
+Michael,Mcclain,3,18,1975,user171@example.com,6972148476,Houston,TX,USA,Project Manager,High School,68000,5,773,Car
+Daniel,Perry,2,25,2000,user176@example.com,9949031355,Boston,MA,USA,Consultant,Master,90000,2,318,Car
+Karen,Johnson,4,5,1998,user185@example.com,3924257521,Seattle,WA,USA,Doctor,High School,120000,1,759,Car
+Jason,Thomas,11,25,1999,user197@example.com,5169874442,Miami,FL,USA,Artist,PhD,56000,2,453,Car

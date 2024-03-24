@@ -1,0 +1,33 @@
+firstName,lastName,month,day,year,email,phoneNumber,city,state,country,occupation,education,salary,dependents,creditScore,Interest
+John,Garcia,11,1,1975,user1@example.com,9389592690,Los Angeles,CA,USA,Consultant,PhD,105000,3,832,Parties
+Janet,Hernandez,1,21,1986,user3@example.com,4444070442,Chicago,IL,USA,Accountant,Bachelor,60000,4,820,Parties
+Andrew,Snyder,4,9,1992,user4@example.com,9308923860,Miami,FL,USA,Nurse,Master,84000,2,611,Parties
+Julie,Larson,1,9,1981,user9@example.com,3285960525,Los Angeles,CA,USA,Nurse,PhD,98000,5,686,Parties
+Kristi,Valenzuela,11,3,1987,user13@example.com,4248573323,Houston,TX,USA,Accountant,Bachelor,60000,3,752,Parties
+Lori,Powell,8,17,1973,user20@example.com,9014196040,Seattle,WA,USA,Accountant,High School,48000,1,336,Parties
+Christie,Jordan,11,16,1977,user25@example.com,8505219536,Los Angeles,CA,USA,Engineer,High School,64000,4,760,Parties
+Joseph,Fisher,6,26,1980,user42@example.com,5107065713,Houston,TX,USA,Project Manager,Bachelor,85000,5,624,Parties
+Vincent,Cooper,9,4,1977,user44@example.com,9212905864,Houston,TX,USA,Engineer,Master,96000,5,310,Parties
+Brittany,Day,11,7,1978,user55@example.com,2997752287,Denver,CO,USA,Data Scientist,Master,114000,0,845,Parties
+Brittany,Church,4,26,1986,user61@example.com,6978978079,San Francisco,CA,USA,Data Scientist,High School,76000,0,400,Parties
+Eric,Jones,12,20,1995,user75@example.com,3874295044,Seattle,WA,USA,Doctor,Bachelor,150000,0,313,Parties
+Jeremy,Martinez,9,27,1999,user88@example.com,3011950385,Seattle,WA,USA,Project Manager,High School,68000,5,574,Parties
+Stacy,Navarro,10,22,1988,user89@example.com,6286635167,Houston,TX,USA,Project Manager,Bachelor,85000,3,461,Parties
+Jamie,Kane,3,3,1986,user91@example.com,4028101151,San Francisco,CA,USA,Artist,Master,48000,5,829,Parties
+Joseph,Johns,10,20,1978,user97@example.com,9313175260,San Francisco,CA,USA,Nurse,Master,84000,4,569,Parties
+Mary,Cortez,7,3,1982,user99@example.com,3239666144,Boston,MA,USA,Nurse,Master,84000,3,550,Parties
+David,Frank,4,22,1979,user100@example.com,3408390038,Houston,TX,USA,Project Manager,PhD,118999,3,724,Parties
+Jeremy,Acevedo,11,26,1995,user113@example.com,7972169748,Los Angeles,CA,USA,Accountant,Bachelor,60000,4,452,Parties
+Robin,Miller,6,19,1989,user123@example.com,1714743022,Los Angeles,CA,USA,Nurse,Bachelor,70000,2,717,Parties
+Samuel,Hernandez,6,27,2000,user131@example.com,6341790393,Seattle,WA,USA,Accountant,High School,48000,0,391,Parties
+George,Hart,4,20,1973,user135@example.com,4593022842,New York,NY,USA,Teacher,PhD,70000,2,702,Parties
+Melissa,Wagner,10,6,1974,user143@example.com,5360602028,Seattle,WA,USA,Artist,Master,48000,4,404,Parties
+Brenda,Lee,12,21,1977,user147@example.com,1968428385,Phoenix,AZ,USA,Doctor,PhD,210000,3,780,Parties
+Deborah,Knight,4,9,1971,user150@example.com,4500867356,Phoenix,AZ,USA,Doctor,Bachelor,150000,1,365,Parties
+Bryan,Andrews,4,24,1984,user151@example.com,9439044147,Miami,FL,USA,Artist,Bachelor,40000,2,714,Parties
+Denise,Lucas,4,24,1988,user153@example.com,3307510925,Los Angeles,CA,USA,Software Engineer,Master,108000,2,784,Parties
+Jeffrey,Johnson,10,2,1973,user155@example.com,5689975910,San Francisco,CA,USA,Consultant,Bachelor,75000,5,381,Parties
+Evelyn,Zimmerman,5,13,1996,user162@example.com,2534784978,Seattle,WA,USA,Consultant,Bachelor,75000,4,495,Parties
+Emily,Patterson,12,30,1985,user165@example.com,5993521338,Seattle,WA,USA,Teacher,PhD,70000,1,757,Parties
+Daniel,Contreras,6,9,1989,user186@example.com,7828334403,Phoenix,AZ,USA,Data Scientist,Bachelor,95000,4,692,Parties
+Taylor,Cantu,3,7,1977,user193@example.com,5474533025,Los Angeles,CA,USA,Software Engineer,Bachelor,90000,4,594,Parties
